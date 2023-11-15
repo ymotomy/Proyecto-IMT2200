@@ -12,7 +12,6 @@ El proyecto se enfoca en analizar avistamientos de aves con el objetivo de compr
 Para llevar a cabo este proyecto, aprovecharemos la API proporcionada por [eBird](https://documenter.getpostman.com/view/664302/S1ENwy59#5a1e27e9-128f-4ab5-80ad-88cd6de10026). Utilizamos esta interfaz para obtener datos sobre avistamientos de aves en territorio chileno desde 2015 hasta 2022, incluyendo información sobre la taxonomía de las aves y las ubicaciones específicas donde se realizaron los avistamientos. Además, disponemos de un conjunto de datos que contiene información sobre los incendios registrados en nuestro país. También contamos con un archivo SHP que proporciona información geoespacial sobre las distintas regiones de Chile.
     
 ## Librerías 📚
-### Librerías externas utilizadas
 La lista de librerías que utilizamos son las siguientes:
 1. ```pandas```
 2. ```numpy```: 
