@@ -1,7 +1,7 @@
 speciesCode,comName,sciName,locId,locName,obsDt,howMany,lat,lng,locationPrivate,exoticCategory,region
 tamcon1,Tamarugo Conebill,Conirostrum tamarugense,L3255029,RN Los Flamencos--Bosque de Tambillo,2015-01-01 13:30,9.0,-23.1200457,-68.0791426,False,-1,Antofagasta
 impcor1,Imperial Cormorant,Leucocarbo atriceps,L3457267,"Canal Errazuriz, N of junction with Canal Corcovado",2015-01-01 11:45,300.0,-45.6828918,-73.8545609,True,-1,Aisén del General Carlos Ibáñez del Campo
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L13172288,Los Pinares de Algarrobo,2015-01-02 20:00,,-33.3864937,-71.6618746,True,-1,Valparaíso
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L13172288,Los Pinares de Algarrobo,2015-01-02 20:00,0.0,-33.3864937,-71.6618746,True,-1,Valparaíso
 snoplo5,Snowy Plover,Charadrius nivosus,L2992535,Punta Puyay,2015-01-02 11:00,7.0,-32.5028102,-71.4310104,True,-1,Valparaíso
 ticdor1,Ticking Doradito,Pseudocolopteryx citreola,L629586,SN Humedal Los Batros y Laguna Grande--Laguna Grande San Pedro,2015-01-02 08:30,3.0,-36.8502303,-73.1083488,False,-1,Bío-Bío
 rebtro,Red-billed Tropicbird,Phaethon aethereus,L1108905,RN Pingüino de Humboldt--Isla Chañaral,2015-01-02 08:00,1.0,-29.0360601,-71.5790176,False,-1,Atacama
@@ -37,7 +37,7 @@ gybsht1,Gray-bellied Shrike-Tyrant,Agriornis micropterus,L3307277,Campo de Margo
 bkfibi2,Andean Ibis,Theristicus branickii,L1048923,Molinos,2015-01-06 15:25,2.0,-18.3821935,-69.9457765,False,-1,Arica y Parinacota
 cawfin1,White-bridled Finch,Melanodera melanodera,L3278917,Cordón Baquedano,2015-01-06 15:25,4.0,-53.3001074,-70.127449,False,-1,Magallanes
 manshe,Manx Shearwater,Puffinus puffinus,L751332,Cabo de Hornos--Mar (Cape Horn at sea),2015-01-06 13:00,1.0,-56.078167,-66.6870117,False,-1,Magallanes
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-06 11:45,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-06 11:45,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 royalb1,Royal Albatross,Diomedea epomophora,L3194975,"Mar Argentino, Drake Passage",2015-01-06 10:51,1.0,-56.707634,-66.242935,True,-1,Magallanes
 wanalb,Wandering Albatross,Diomedea exulans,L3194975,"Mar Argentino, Drake Passage",2015-01-06 10:51,3.0,-56.707634,-66.242935,True,-1,Magallanes
 greshe,Great Shearwater,Ardenna gravis,L3194975,"Mar Argentino, Drake Passage",2015-01-06 10:51,2.0,-56.707634,-66.242935,True,-1,Magallanes
@@ -104,7 +104,7 @@ cappet,Cape Petrel,Daption capense,L3883602,Vavilov 2015-01-16 1649,2015-01-16 1
 blupet1,Blue Petrel,Halobaena caerulea,L3883602,Vavilov 2015-01-16 1649,2015-01-16 16:49,13.0,-57.0040987,-66.5383918,True,-1,Magallanes
 batgod,Bar-tailed Godwit,Limosa lapponica,L3270845,Quetalmahue--oeste,2015-01-16 15:53,1.0,-41.8454962,-73.9995852,False,-1,Los Lagos
 limalb1,Light-mantled Albatross,Phoebetria palpebrata,L3883601,Vavilov 2015-01-16 0856,2015-01-16 08:56,1.0,-55.9433542,-66.427366,True,-1,Magallanes
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L688163,Camino a Farellones--entre Yerba Loca y Farellones,2015-01-16 07:00,,-33.3495121,-70.3262329,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L688163,Camino a Farellones--entre Yerba Loca y Farellones,2015-01-16 07:00,0.0,-33.3495121,-70.3262329,False,-1,Región Metropolitana de Santiago
 blkski,Black Skimmer,Rynchops niger,L504553,SN Humedal Río Maipo--Desembocadura,2015-01-17 19:30,1000.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 cthhue1,Chestnut-throated Huet-huet,Pteroptochos castaneus,L3077650,Bosque Nativo en Penco,2015-01-17 11:00,7.0,-36.7465873,-72.975322,True,-1,Bío-Bío
 sooter1,Sooty Tern,Onychoprion fuscatus,L884715,Antofagasta--playa frente a Universidad,2015-01-17 08:56,1.0,-23.7022519,-70.4241979,False,-1,Antofagasta
@@ -118,7 +118,7 @@ leasan,Least Sandpiper,Calidris minutilla,L504553,SN Humedal Río Maipo--Desembo
 ticdor1,Ticking Doradito,Pseudocolopteryx citreola,L504553,SN Humedal Río Maipo--Desembocadura,2015-01-19 17:46,2.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 osprey,Osprey,Pandion haliaetus,L3305164,"Playa Chacaya, Antofagasta",2015-01-19 17:00,1.0,-22.965506,-70.3110516,True,-1,Antofagasta
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L752313,Humedal de Mantagua,2015-01-19 12:15,2.0,-32.8853535,-71.5031433,True,-1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-19 11:00,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-19 11:00,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 humpen1,Humboldt Penguin,Spheniscus humboldti,L572712,Cachagua,2015-01-19 09:30,200.0,-32.583777,-71.4558506,False,-1,Valparaíso
 flystd1,Flying Steamer-Duck,Tachyeres patachonicus,L492288,Pullao,2015-01-19,7.0,-42.4734897,-73.6786079,False,-1,Los Lagos
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1030674,Camino Valle Nevado,2015-01-20 16:00,2.0,-33.3700689,-70.2803028,False,-1,Región Metropolitana de Santiago
@@ -165,9 +165,9 @@ y00678,Crested Caracara,Caracara plancus,L516540,Río Huasco--Desembocadura,2015
 chisku1,Chilean Skua,Stercorarius chilensis,L3307012,Camino a perales,2015-01-29 09:00,2.0,-51.556612,-72.7883203,True,-1,Magallanes
 limalb1,Light-mantled Albatross,Phoebetria palpebrata,L3194975,"Mar Argentino, Drake Passage",2015-01-29 08:10,2.0,-56.707634,-66.242935,True,-1,Magallanes
 bbspet1,Black-bellied Storm-Petrel,Fregetta tropica,L3194975,"Mar Argentino, Drake Passage",2015-01-29 08:10,5.0,-56.707634,-66.242935,True,-1,Magallanes
-gragoo,Graylag Goose,Anser anser,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-30 12:20,,-32.6327613,-71.426518,False,1,Valparaíso
+gragoo,Graylag Goose,Anser anser,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-30 12:20,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 musduc,Muscovy Duck,Cairina moschata,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-30 12:20,1.0,-32.6327613,-71.426518,False,1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-30 12:20,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-01-30 12:20,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 surfbi,Surfbird,Calidris virgata,L572712,Cachagua,2015-01-30 10:50,62.0,-32.583777,-71.4558506,False,-1,Valparaíso
 semplo,Semipalmated Plover,Charadrius semipalmatus,L636004,Estero Tongoy--Desembocadura,2015-01-30 09:11,4.0,-30.25497,-71.49359,False,-1,Coquimbo
 santer1,Sandwich Tern,Thalasseus sandvicensis,L636004,Estero Tongoy--Desembocadura,2015-01-30 09:11,1.0,-30.25497,-71.49359,False,-1,Coquimbo
@@ -408,7 +408,7 @@ whtgre3,White-tufted Grebe,Rollandia rolland,L635297,Humedal de Putú,2015-02-24
 whfibi,White-faced Ibis,Plegadis chihi,L635297,Humedal de Putú,2015-02-24 10:35,60.0,-35.1553896,-72.2467804,False,-1,Maule
 semsan,Semipalmated Sandpiper,Calidris pusilla,L635297,Humedal de Putú,2015-02-25 17:00,1.0,-35.1553896,-72.2467804,False,-1,Maule
 elctin1,Elegant Crested-Tinamou,Eudromia elegans,L3340351,Chile Chico--aeródromo,2015-02-25 16:25,31.0,-46.5824997,-71.69034,False,-1,Aisén del General Carlos Ibáñez del Campo
-cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L3441550,Laguna del Yeso,2015-02-25 16:00,,-34.4146812,-70.2017355,False,-1,Libertador General Bernardo O'Higgins
+cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L3441550,Laguna del Yeso,2015-02-25 16:00,0.0,-34.4146812,-70.2017355,False,-1,Libertador General Bernardo O'Higgins
 sander,Sanderling,Calidris alba,L516554,Hornitos (Antofagasta)--Norte,2015-02-25 11:00,1800.0,-22.8578274,-70.2953339,False,-1,Antofagasta
 rocpen1,Southern Rockhopper Penguin,Eudyptes chrysocome,L571146,Ferry Punta Arenas-Porvenir (Pelágico),2015-02-25 09:30,1.0,-53.233989,-70.6777954,False,-1,Magallanes
 cosswa1,Coscoroba Swan,Coscoroba coscoroba,L3443141,"-28,0837 X -71,1420",2015-02-26 17:07,13.0,-28.08366,-71.14201,True,-1,Atacama
@@ -490,9 +490,9 @@ moupar2,Mountain Parakeet,Psilopsiagon aurifrons,L819912,Camino Embalse El Yeso-
 perpel1,Peruvian Pelican,Pelecanus thagus,L4612317,SN Islote Peña Blanca y Punta Peña Blanca,2015-03-09 16:20,1000.0,-33.3652841,-71.6935855,False,-1,Valparaíso
 hudgod,Hudsonian Godwit,Limosa haemastica,L2919727,Lenga - Humedal,2015-03-09 13:00,50.0,-36.7683184,-73.1684732,True,-1,Bío-Bío
 andcon1,Andean Condor,Vultur gryphus,L3481453,"rd to Rio Verde, Hwy 90 and Y-50, Punta Arenas, Chile",2015-03-09 10:10,24.0,-52.8007809,-71.1855869,True,-1,Magallanes
-bichaw4,Chilean Hawk,Accipiter chilensis,L592898,Puerto Williams,2015-03-09 10:00,,-54.9331831,-67.6041985,False,-1,Magallanes
+bichaw4,Chilean Hawk,Accipiter chilensis,L592898,Puerto Williams,2015-03-09 10:00,0.0,-54.9331831,-67.6041985,False,-1,Magallanes
 ticdor1,Ticking Doradito,Pseudocolopteryx citreola,L504553,SN Humedal Río Maipo--Desembocadura,2015-03-09 08:30,2.0,-33.6198013,-71.6275442,False,-1,Valparaíso
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L819912,Camino Embalse El Yeso--Vega al costado del camino,2015-03-09,,-33.6900671,-70.1072252,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L819912,Camino Embalse El Yeso--Vega al costado del camino,2015-03-09,0.0,-33.6900671,-70.1072252,False,-1,Región Metropolitana de Santiago
 fotfly,Fork-tailed Flycatcher,Tyrannus savana,L6435829,"Pica, Chile",2015-03-10 19:00,1.0,-20.4832738,-69.3194454,True,-1,Tarapacá
 soasni3,Magellanic Snipe,Gallinago magellanica,L1030452,Camino a La Parva--Vegas y Pastizales,2015-03-10 17:10,1.0,-33.3442243,-70.299046,False,-1,Región Metropolitana de Santiago
 kinpen1,King Penguin,Aptenodytes patagonicus,L1032990,Parque Pingüino Rey (Desembocadura Río Marazzi),2015-03-10 17:00,84.0,-53.4619671,-69.3105555,False,-1,Magallanes
@@ -599,7 +599,7 @@ gresht1,Great Shrike-Tyrant,Agriornis lividus,L833866,Río Carampangue--Desemboc
 incter1,Inca Tern,Larosterna inca,L3509123,Islote de Pupuya,2015-03-22 11:30,354.0,-33.9722996,-71.8934906,False,-1,Libertador General Bernardo O'Higgins
 perboo1,Peruvian Booby,Sula variegata,L3509123,Islote de Pupuya,2015-03-22 11:30,1200.0,-33.9722996,-71.8934906,False,-1,Libertador General Bernardo O'Higgins
 guacor1,Guanay Cormorant,Leucocarbo bougainvillii,L3509123,Islote de Pupuya,2015-03-22 11:30,4000.0,-33.9722996,-71.8934906,False,-1,Libertador General Bernardo O'Higgins
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1147111,Farellones,2015-03-22 09:15,,-33.3520394,-70.3129292,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1147111,Farellones,2015-03-22 09:15,0.0,-33.3520394,-70.3129292,False,-1,Región Metropolitana de Santiago
 uplsan,Upland Sandpiper,Bartramia longicauda,L1936528,"Jardines del Norte IV, Antofagasta",2015-03-23 23:30,1.0,-23.5698334,-70.3952515,True,-1,Antofagasta
 categr,Cattle Egret,Bubulcus ibis,L572315,Punta Arenas,2015-03-23 15:40,8.0,-53.1596637,-70.8985734,False,-1,Magallanes
 uplsan,Upland Sandpiper,Bartramia longicauda,L1936528,"Jardines del Norte IV, Antofagasta",2015-03-24 23:00,1.0,-23.5698334,-70.3952515,True,-1,Antofagasta
@@ -675,7 +675,7 @@ spwpig3,Spot-winged Pigeon,Patagioenas maculosa,L570508,Putre,2015-04-04 15:49,4
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1030452,Camino a La Parva--Vegas y Pastizales,2015-04-04 15:45,4.0,-33.3442243,-70.299046,False,-1,Región Metropolitana de Santiago
 whbmoc1,White-banded Mockingbird,Mimus triurus,L3538949,Caleta Angosta,2015-04-04 13:00,1.0,-28.2305556,-71.1536111,True,-1,Atacama
 wepdov1,West Peruvian Dove,Zenaida meloda,L1758823,Papudo quebrada,2015-04-04 11:00,10.0,-32.5159865,-71.4450704,True,-1,Valparaíso
-giahum1,Giant Hummingbird,Patagona gigas,L1306146,Los maitenes 32°48´S 70°22´47; San Esteban,2015-04-04 11:00,,-32.8025704,-70.3799629,True,-1,Valparaíso
+giahum1,Giant Hummingbird,Patagona gigas,L1306146,Los maitenes 32°48´S 70°22´47; San Esteban,2015-04-04 11:00,0.0,-32.8025704,-70.3799629,True,-1,Valparaíso
 giacon1,Giant Conebill,Conirostrum binghami,L516530,PN Lauca--Lago Chungará,2015-04-04 10:35,1.0,-18.2560888,-69.1623688,False,-1,Arica y Parinacota
 mallar3,Mallard,Anas platyrhynchos,L1003469,Estero San Jerónimo--Desembocadura,2015-04-04 09:00,6.0,-33.3553642,-71.6547096,False,1,Valparaíso
 semplo,Semipalmated Plover,Charadrius semipalmatus,L3185477,Pabellón de Pica,2015-04-04 09:00,4.0,-20.9129621,-70.1388645,False,-1,Tarapacá
@@ -841,7 +841,7 @@ tatdot1,Tawny-throated Dotterel,Oreopholus ruficollis,L691243,Río Andalien--Des
 leasee1,Least Seedsnipe,Thinocorus rumicivorus,L691243,Río Andalien--Desembocadura,2015-04-29 11:00,12.0,-36.7418086,-73.0162556,False,-1,Bío-Bío
 stisan,Stilt Sandpiper,Calidris himantopus,L791057,Estero El Culebrón--Desembocadura,2015-04-29 09:30,1.0,-29.9617015,-71.3218206,False,-1,Coquimbo
 bcbeag1,Black-chested Buzzard-Eagle,Geranoaetus melanoleucus,L774555,Campus Sur -  Universidad de Chile,2015-04-30 15:30,1.0,-33.5708994,-70.6356955,False,-1,Región Metropolitana de Santiago
-watjac1,Wattled Jacana,Jacana jacana,L6577191,Puerto Los Llolles,2015-04-30 12:45,,-40.2281042,-72.1477747,True,-1,Los Ríos
+watjac1,Wattled Jacana,Jacana jacana,L6577191,Puerto Los Llolles,2015-04-30 12:45,0.0,-40.2281042,-72.1477747,True,-1,Los Ríos
 calqua,California Quail,Callipepla californica,L774555,Campus Sur -  Universidad de Chile,2015-04-30 12:30,10.0,-33.5708994,-70.6356955,False,0,Región Metropolitana de Santiago
 lotmea1,Long-tailed Meadowlark,Leistes loyca,L774555,Campus Sur -  Universidad de Chile,2015-04-30 12:30,4.0,-33.5708994,-70.6356955,False,-1,Región Metropolitana de Santiago
 yewbla2,Yellow-winged Blackbird,Agelasticus thilius,L774555,Campus Sur -  Universidad de Chile,2015-04-30 12:30,4.0,-33.5708994,-70.6356955,False,-1,Región Metropolitana de Santiago
@@ -870,8 +870,8 @@ hudgod,Hudsonian Godwit,Limosa haemastica,L629582,Rocuant--Canal El Morro,2015-0
 rudtur,Ruddy Turnstone,Arenaria interpres,L629582,Rocuant--Canal El Morro,2015-05-04 09:30,7.0,-36.7354449,-73.0929422,False,-1,Bío-Bío
 brhgul2,Brown-hooded Gull,Chroicocephalus maculipennis,L629582,Rocuant--Canal El Morro,2015-05-04 09:30,1700.0,-36.7354449,-73.0929422,False,-1,Bío-Bío
 watjac1,Wattled Jacana,Jacana jacana,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-04,1.0,-32.6327613,-71.426518,False,-1,Valparaíso
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L516511,Algarrobo,2015-05-04,,-33.3646569,-71.6727448,False,-1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-05 16:45,,-32.6327613,-71.426518,False,1,Valparaíso
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L516511,Algarrobo,2015-05-04,0.0,-33.3646569,-71.6727448,False,-1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-05 16:45,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 watjac1,Wattled Jacana,Jacana jacana,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-05 16:45,1.0,-32.6327613,-71.426518,False,-1,Valparaíso
 categr,Cattle Egret,Bubulcus ibis,L1742637,Avenida España y alrrededores,2015-05-05 16:00,1.0,-53.1388697,-70.891596,True,-1,Magallanes
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L677238,Valle Nevado,2015-05-05 13:30,10.0,-33.3564128,-70.2490819,False,-1,Región Metropolitana de Santiago
@@ -879,17 +879,17 @@ whbsee2,White-bellied Seedsnipe,Attagis malouinus,L1762612,Agua Fresca,2015-05-0
 relcor1,Red-legged Cormorant,Poikilocarbo gaimardi,L582952,Estero Marga Marga--Desembocadura,2015-05-05 12:15,153.0,-33.0196359,-71.5619856,False,-1,Valparaíso
 snoplo5,Snowy Plover,Charadrius nivosus,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-06 15:00,31.0,-32.6327613,-71.426518,False,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-06 15:00,2.0,-32.6327613,-71.426518,False,-1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L751505,Jardín Botánico Nacional,2015-05-06 14:00,,-33.041011,-71.50177,True,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L751505,Jardín Botánico Nacional,2015-05-06 14:00,0.0,-33.041011,-71.50177,True,1,Valparaíso
 osprey,Osprey,Pandion haliaetus,L636004,Estero Tongoy--Desembocadura,2015-05-06 09:30,1.0,-30.25497,-71.49359,False,-1,Coquimbo
 wepdov1,West Peruvian Dove,Zenaida meloda,L3619873,Laura Barros,2015-05-07 09:30,1.0,-32.9346975,-71.5384948,True,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3638069,Cerro Minillas,2015-05-07 08:00,1.0,-33.5372379,-70.4797173,True,-1,Región Metropolitana de Santiago
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L691243,Río Andalien--Desembocadura,2015-05-08 11:00,1.0,-36.7418086,-73.0162556,False,-1,Bío-Bío
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L516564,RN Lago Peñuelas,2015-05-08 09:00,,-33.1668698,-71.514473,False,-1,Valparaíso
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L516564,RN Lago Peñuelas,2015-05-08 09:00,0.0,-33.1668698,-71.514473,False,-1,Valparaíso
 cosswa1,Coscoroba Swan,Coscoroba coscoroba,L504551,Carrizal Bajo--Humedal,2015-05-09 18:30,6.0,-28.0840212,-71.1426115,False,-1,Atacama
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L504553,SN Humedal Río Maipo--Desembocadura,2015-05-09 17:57,2.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 chifla1,Chilean Flamingo,Phoenicopterus chilensis,L3455462,Tranque el Culenar,2015-05-09 17:50,1.0,-35.1760019,-71.5417671,True,-1,Maule
 rudtur,Ruddy Turnstone,Arenaria interpres,L3627644,playa curiñanco,2015-05-09 17:15,3.0,-39.75198,-73.39109,True,-1,Los Ríos
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-09 15:55,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-09 15:55,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 burpar,Burrowing Parakeet,Cyanoliseus patagonus,L2965010,Lambert,2015-05-09 15:50,250.0,-29.7691457,-71.1563873,False,-1,Coquimbo
 osprey,Osprey,Pandion haliaetus,L1819549,SN Humedales de Tongoy--Salinas Chicas,2015-05-09 12:26,1.0,-30.2828485,-71.5062434,False,-1,Coquimbo
 whshil1,White-sided Hillstar,Oreotrochilus leucopleurus,L1185611,Valle de los Cóndores,2015-05-09 12:00,1.0,-35.9546649,-70.5777812,False,-1,Maule
@@ -898,7 +898,7 @@ comgal1,Common Gallinule,Gallinula galeata,L504549,Punta Teatinos--Laguna Saladi
 cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L827540,MN El Morado--Laguna Morales,2015-05-09 10:00,1.0,-33.7831067,-70.0728607,False,-1,Región Metropolitana de Santiago
 andduc1,Andean Duck,Oxyura ferruginea,L835069,Laguna del Maule,2015-05-09 09:30,1.0,-36.0565381,-70.4971291,False,-1,Maule
 crrmin1,Creamy-rumped Miner,Geositta isabellina,L3635190,Lagunillas,2015-05-09 07:55,30.0,-33.6401898,-70.2914238,True,-1,Región Metropolitana de Santiago
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-10 15:17,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-05-10 15:17,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 leasee1,Least Seedsnipe,Thinocorus rumicivorus,L570658,SN Laguna Batuco,2015-05-10 14:00,28.0,-33.2064427,-70.8279133,False,-1,Región Metropolitana de Santiago
 andduc1,Andean Duck,Oxyura ferruginea,L3638924,Laguna San Pedro,2015-05-10 10:00,20.0,-38.439279,-71.333663,False,-1,Araucanía
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1172903,Cuesta de Chacabuco,2015-05-10 09:35,6.0,-32.9583195,-70.670135,False,-1,Valparaíso
@@ -1007,7 +1007,7 @@ semplo,Semipalmated Plover,Charadrius semipalmatus,L1112230,Río Biobío--Desemb
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3154749,PN La Campana,2015-06-03 09:15,1.0,-32.9843608,-71.111927,False,-1,Valparaíso
 mitpar,Mitred Parakeet,Psittacara mitratus,L760571,Azapa,2015-06-04 14:00,2.0,-18.5172466,-70.1970062,False,1,Arica y Parinacota
 rempar,Red-masked Parakeet,Psittacara erythrogenys,L760571,Azapa,2015-06-04 14:00,1.0,-18.5172466,-70.1970062,False,1,Arica y Parinacota
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-06-04 13:00,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-06-04 13:00,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 belgul,Belcher's Gull,Larus belcheri,L698459,Humedal de Campiche,2015-06-04 09:50,1.0,-32.7549424,-71.4736176,True,-1,Valparaíso
 whtkit,White-tailed Kite,Elanus leucurus,L774555,Campus Sur -  Universidad de Chile,2015-06-05 09:30,2.0,-33.5708994,-70.6356955,False,-1,Región Metropolitana de Santiago
 pafear1,Patagonian Forest Earthcreeper,Upucerthia saturatior,L774555,Campus Sur -  Universidad de Chile,2015-06-05 09:30,1.0,-33.5708994,-70.6356955,False,-1,Región Metropolitana de Santiago
@@ -1117,14 +1117,14 @@ bfoboo,Blue-footed Booby,Sula nebouxii,L570174,Quintero--Pelágico,2015-06-28 13
 kerpet2,Kerguelen Petrel,Aphrodroma brevirostris,L571146,Ferry Punta Arenas-Porvenir (Pelágico),2015-06-28 09:42,1.0,-53.233989,-70.6777954,False,-1,Magallanes
 rubmin1,Rufous-banded Miner,Geositta rufipennis,L3760642,SN Yerba Loca--Estero La Leonera,2015-06-28 08:30,55.0,-33.3158127,-70.3085303,False,-1,Región Metropolitana de Santiago
 whbsee2,White-bellied Seedsnipe,Attagis malouinus,L3089848,PN Pali Aike,2015-06-29 17:05,7.0,-52.1469733,-69.8043823,True,-1,Magallanes
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-06-29 13:35,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-06-29 13:35,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 snoplo5,Snowy Plover,Charadrius nivosus,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-06-29 13:35,25.0,-32.6327613,-71.426518,False,-1,Valparaíso
 bfoboo,Blue-footed Booby,Sula nebouxii,L570165,Reñaca--Montemar,2015-06-29 12:00,1.0,-32.9576713,-71.5500712,False,-1,Valparaíso
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L570165,Reñaca--Montemar,2015-06-29 12:00,5.0,-32.9576713,-71.5500712,False,-1,Valparaíso
 rubmin1,Rufous-banded Miner,Geositta rufipennis,L3839168,Cerro Chena--Pukará/Huanca de Chena,2015-07-01 16:27,6.0,-33.615075,-70.7469213,False,-1,Región Metropolitana de Santiago
 snoplo5,Snowy Plover,Charadrius nivosus,L5708848,Playa de San Alfonso,2015-07-01,8.0,-33.3500499,-71.6539371,False,-1,Valparaíso
 bfoboo,Blue-footed Booby,Sula nebouxii,L582952,Estero Marga Marga--Desembocadura,2015-07-02 14:50,2.0,-33.0196359,-71.5619856,False,-1,Valparaíso
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3800816,canino a lagunillas,2015-07-03 15:00,,-33.632898,-70.31649,True,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3800816,canino a lagunillas,2015-07-03 15:00,0.0,-33.632898,-70.31649,True,-1,Región Metropolitana de Santiago
 bfoboo,Blue-footed Booby,Sula nebouxii,L570165,Reñaca--Montemar,2015-07-03 09:00,1.0,-32.9576713,-71.5500712,False,-1,Valparaíso
 twbplo1,Two-banded Plover,Charadrius falklandicus,L2922944,Rocas Negras,2015-07-04 15:50,3.0,-27.1310689,-70.8699009,False,-1,Atacama
 crachi1,Crag Chilia,Ochetorhynchus melanurus,L3793832,Estancia Las Breas,2015-07-04 13:15,6.0,-29.4642146,-70.637691,True,-1,Coquimbo
@@ -1142,7 +1142,7 @@ blhduc1,Black-headed Duck,Heteronetta atricapilla,L798863,RN Laguna Torca,2015-0
 comgal1,Common Gallinule,Gallinula galeata,L798863,RN Laguna Torca,2015-07-06 16:10,1.0,-34.7716527,-72.0419025,False,-1,Maule
 whtcar1,White-throated Caracara,Daptrius albogularis,L3777309,Puerto Williams,2015-07-06 14:00,1.0,-54.9364935,-67.6288748,True,-1,Magallanes
 whfibi,White-faced Ibis,Plegadis chihi,L769355,Lo Valdivia (salinas),2015-07-06 12:15,35.0,-34.6958261,-72.0213032,False,-1,Libertador General Bernardo O'Higgins
-mallar3,Mallard,Anas platyrhynchos,L3811557,Lagitos near Cachagua,2015-07-06,,-32.5907919,-71.437397,True,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L3811557,Lagitos near Cachagua,2015-07-06,0.0,-32.5907919,-71.437397,True,1,Valparaíso
 semplo,Semipalmated Plover,Charadrius semipalmatus,L636004,Estero Tongoy--Desembocadura,2015-07-07 17:53,3.0,-30.25497,-71.49359,False,-1,Coquimbo
 bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L3481561,Parque Bicentenario de Vitacura (no contar cisnes),2015-07-07 16:30,1.0,-33.3980197,-70.6022,False,-1,Región Metropolitana de Santiago
 blkrai,Black Rail,Laterallus jamaicensis,L635297,Humedal de Putú,2015-07-07 16:00,1.0,-35.1553896,-72.2467804,False,-1,Maule
@@ -1175,17 +1175,17 @@ guacor1,Guanay Cormorant,Leucocarbo bougainvillii,L3791053,Morro Gonzalo,2015-07
 perpel1,Peruvian Pelican,Pelecanus thagus,L3791053,Morro Gonzalo,2015-07-12 17:33,146.0,-39.8524568,-73.4675945,False,-1,Los Ríos
 mallar3,Mallard,Anas platyrhynchos,L1003469,Estero San Jerónimo--Desembocadura,2015-07-12 15:20,3.0,-33.3553642,-71.6547096,False,1,Valparaíso
 chifla1,Chilean Flamingo,Phoenicopterus chilensis,L604469,Río Limarí--Desembocadura,2015-07-12 15:00,1.0,-30.7277447,-71.6954041,False,-1,Coquimbo
-pugtyr1,Puna Ground-Tyrant,Muscisaxicola juninensis,L724725,Geisers del Tatio,2015-07-12 08:00,,-22.3357862,-68.0125809,False,-1,Antofagasta
+pugtyr1,Puna Ground-Tyrant,Muscisaxicola juninensis,L724725,Geisers del Tatio,2015-07-12 08:00,0.0,-22.3357862,-68.0125809,False,-1,Antofagasta
 whbsee2,White-bellied Seedsnipe,Attagis malouinus,L2362932,Río Hollemberg--Desembocadura,2015-07-13 14:00,1.0,-51.9070981,-72.4527633,False,-1,Magallanes
 truter,Snowy-crowned Tern,Sterna trudeaui,L691235,Estero Nilahue--Salinas de Cáhuil,2015-07-13 12:20,21.0,-34.5060615,-71.9860268,False,-1,Libertador General Bernardo O'Higgins
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L900226,"Cerro San Cristóbal [usar localidades específicas, por favor]",2015-07-14 17:00,1.0,-33.4210786,-70.6309278,False,-1,Región Metropolitana de Santiago
 comgal1,Common Gallinule,Gallinula galeata,L504549,Punta Teatinos--Laguna Saladita,2015-07-15 17:30,1.0,-29.8220854,-71.2886524,False,-1,Coquimbo
-fragul,Franklin's Gull,Leucophaeus pipixcan,L572344,Río Aconcagua--Desembocadura Humedal Urbano,2015-07-15 16:25,,-32.917422,-71.5067911,False,-1,Valparaíso
+fragul,Franklin's Gull,Leucophaeus pipixcan,L572344,Río Aconcagua--Desembocadura Humedal Urbano,2015-07-15 16:25,0.0,-32.917422,-71.5067911,False,-1,Valparaíso
 chiwig1,Chiloe Wigeon,Mareca sibilatrix,L570658,SN Laguna Batuco,2015-07-15 13:55,470.0,-33.2064427,-70.8279133,False,-1,Región Metropolitana de Santiago
 andduc1,Andean Duck,Oxyura ferruginea,L502857,Tranque La Cadellada,2015-07-15 09:34,2.0,-33.2049405,-70.7892036,False,-1,Región Metropolitana de Santiago
-chiwig1,Chiloe Wigeon,Mareca sibilatrix,L16432344,Llay Llay,2015-07-16 18:40,,-32.8672936,-70.8989143,True,-1,Valparaíso
-yebpin1,Yellow-billed Pintail,Anas georgica,L16432344,Llay Llay,2015-07-16 18:40,,-32.8672936,-70.8989143,True,-1,Valparaíso
-yebtea1,Yellow-billed Teal,Anas flavirostris,L16432344,Llay Llay,2015-07-16 18:40,,-32.8672936,-70.8989143,True,-1,Valparaíso
+chiwig1,Chiloe Wigeon,Mareca sibilatrix,L16432344,Llay Llay,2015-07-16 18:40,0.0,-32.8672936,-70.8989143,True,-1,Valparaíso
+yebpin1,Yellow-billed Pintail,Anas georgica,L16432344,Llay Llay,2015-07-16 18:40,0.0,-32.8672936,-70.8989143,True,-1,Valparaíso
+yebtea1,Yellow-billed Teal,Anas flavirostris,L16432344,Llay Llay,2015-07-16 18:40,0.0,-32.8672936,-70.8989143,True,-1,Valparaíso
 siltea1,Silver Teal,Spatula versicolor,L570658,SN Laguna Batuco,2015-07-16 14:00,9.0,-33.2064427,-70.8279133,False,-1,Región Metropolitana de Santiago
 comgal1,Common Gallinule,Gallinula galeata,L3818919,HUMEDAL DE HUASCO,2015-07-16 14:00,20.0,-28.4423742,-71.2025535,True,-1,Atacama
 whbsee2,White-bellied Seedsnipe,Attagis malouinus,L3795080,Costanera sur CNAA,2015-07-16 13:15,1.0,-51.8521628,-72.4971056,True,-1,Magallanes
@@ -1248,13 +1248,13 @@ blkski,Black Skimmer,Rynchops niger,L572344,Río Aconcagua--Desembocadura Humeda
 shicow,Shiny Cowbird,Molothrus bonariensis,L2938359,Casa Central - Universidad de Santiago,2015-07-24 10:22,54.0,-33.44803,-70.68324,False,-1,Región Metropolitana de Santiago
 arcter,Arctic Tern,Sterna paradisaea,L668852,Río Lluta--Desembocadura,2015-07-24 08:00,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 plsfin1,Plumbeous Sierra Finch,Geospizopsis unicolor,L2435741,sector Bandurrias,2015-07-25 17:20,1.0,-45.5450279,-71.9091225,True,-1,Aisén del General Carlos Ibáñez del Campo
-whcpin,White-cheeked Pintail,Anas bahamensis,L904625,Río Loa--Desembocadura,2015-07-25 13:00,,-21.4292013,-70.0585485,False,-1,Tarapacá
+whcpin,White-cheeked Pintail,Anas bahamensis,L904625,Río Loa--Desembocadura,2015-07-25 13:00,0.0,-21.4292013,-70.0585485,False,-1,Tarapacá
 soasni3,Magellanic Snipe,Gallinago magellanica,L504553,SN Humedal Río Maipo--Desembocadura,2015-07-25 10:00,6.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 wepdov1,West Peruvian Dove,Zenaida meloda,L1588328,Papudo,2015-07-25 09:30,2.0,-32.5060509,-71.4481577,True,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L551450,SN Laguna El Peral,2015-07-26 17:30,1.0,-33.5052153,-71.607154,False,-1,Valparaíso
 blkski,Black Skimmer,Rynchops niger,L572344,Río Aconcagua--Desembocadura Humedal Urbano,2015-07-26 16:30,100.0,-32.917422,-71.5067911,False,-1,Valparaíso
 mallar3,Mallard,Anas platyrhynchos,L1003469,Estero San Jerónimo--Desembocadura,2015-07-26 16:00,3.0,-33.3553642,-71.6547096,False,1,Valparaíso
-blhduc1,Black-headed Duck,Heteronetta atricapilla,L509064,SN Laguna Conchalí,2015-07-26 15:00,,-31.8780678,-71.4966631,False,-1,Coquimbo
+blhduc1,Black-headed Duck,Heteronetta atricapilla,L509064,SN Laguna Conchalí,2015-07-26 15:00,0.0,-31.8780678,-71.4966631,False,-1,Coquimbo
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L3813737,Sta Gracia (Sector Sur),2015-07-26 14:40,3.0,-29.9034908,-71.1837459,True,-1,Coquimbo
 speduc2,Spectacled Duck,Speculanas specularis,L1495588,"Agua Fresca, Km. 24.5 Sur (Sector Rio Sta Maria)",2015-07-26 14:30,13.0,-53.3669937,-70.9730461,True,-1,Magallanes
 libher,Little Blue Heron,Egretta caerulea,L673642,Río Elqui--Desembocadura,2015-07-26 11:45,1.0,-29.8933968,-71.2727094,False,-1,Coquimbo
@@ -1347,11 +1347,11 @@ flistd1,Flightless Steamer-Duck,Tachyeres pteneres,L492288,Pullao,2015-08-22 17:
 whcela1,White-crested Elaenia,Elaenia albiceps,L1588328,Papudo,2015-08-22 16:00,1.0,-32.5060509,-71.4481577,True,-1,Valparaíso
 buwcin1,Buff-winged Cinclodes,Cinclodes fuscus,L3086280,Humedal Urbano Küla-Kura (O'Higgins),2015-08-22 15:00,32.0,-33.3388465,-70.7320833,False,-1,Región Metropolitana de Santiago
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L3086280,Humedal Urbano Küla-Kura (O'Higgins),2015-08-22 15:00,6.0,-33.3388465,-70.7320833,False,-1,Región Metropolitana de Santiago
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L752313,Humedal de Mantagua,2015-08-22 15:00,,-32.8853535,-71.5031433,True,-1,Valparaíso
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L752313,Humedal de Mantagua,2015-08-22 15:00,0.0,-32.8853535,-71.5031433,True,-1,Valparaíso
 robpoc1,Rosy-billed Pochard,Netta peposaca,L3085729,Parque Tricao,2015-08-22 13:30,6.0,-33.7218411,-71.6387343,False,-1,Valparaíso
 chitin1,Chilean Tinamou,Nothoprocta perdicaria,L3148408,Bosque Panul,2015-08-22 09:00,14.0,-33.5352421,-70.5322695,True,-1,Región Metropolitana de Santiago
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L1313363,"Quebrada de Talca, Las Loicas",2015-08-23 17:45,12.0,-30.069094,-71.0705566,True,-1,Coquimbo
-incter1,Inca Tern,Larosterna inca,L3945628,desembocadura bío bío,2015-08-23 17:00,,-36.8066046,-73.1731939,True,-1,Bío-Bío
+incter1,Inca Tern,Larosterna inca,L3945628,desembocadura bío bío,2015-08-23 17:00,0.0,-36.8066046,-73.1731939,True,-1,Bío-Bío
 ausbla1,Austral Blackbird,Curaeus curaeus,L1653649,Rotonda Lo Curro,2015-08-23 16:30,53.0,-33.3780755,-70.5672629,True,-1,Región Metropolitana de Santiago
 guacor1,Guanay Cormorant,Leucocarbo bougainvillii,L801945,Islote Punta de piedra,2015-08-23 10:30,3000.0,-32.8898943,-71.5216827,False,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L504548,Estero Mantagua,2015-08-23 10:00,3.0,-32.8844165,-71.5067482,False,-1,Valparaíso
@@ -1360,8 +1360,8 @@ yewbla2,Yellow-winged Blackbird,Agelasticus thilius,L3481561,Parque Bicentenario
 whbmoc1,White-banded Mockingbird,Mimus triurus,L3869973,"El Peñon, Andacollo",2015-08-25 12:43,1.0,-30.1319382,-71.2264895,True,-1,Coquimbo
 seacin1,Seaside Cinclodes,Cinclodes nigrofumosus,L3871526,morro pilolcura,2015-08-26 17:40,1.0,-39.67286,-73.35354,True,-1,Los Ríos
 whttre2,White-throated Treerunner,Pygarrhichas albogularis,L5417579,Cerro Santa Inés,2015-08-26 14:48,1.0,-32.1584839,-71.4921355,False,-1,Coquimbo
-sposan,Spotted Sandpiper,Actitis macularius,L668852,Río Lluta--Desembocadura,2015-08-26 13:50,,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
-sabgul,Sabine's Gull,Xema sabini,L571139,Arica--Pelágico,2015-08-26 07:30,,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
+sposan,Spotted Sandpiper,Actitis macularius,L668852,Río Lluta--Desembocadura,2015-08-26 13:50,0.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
+sabgul,Sabine's Gull,Xema sabini,L571139,Arica--Pelágico,2015-08-26 07:30,0.0,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3854492,Cerro Carbón,2015-08-27 11:30,2.0,-33.3847985,-70.6022722,False,-1,Región Metropolitana de Santiago
 demwir1,Des Murs's Wiretail,Sylviorthorhynchus desmursii,L5417579,Cerro Santa Inés,2015-08-27 11:20,1.0,-32.1584839,-71.4921355,False,-1,Coquimbo
 burpar,Burrowing Parakeet,Cyanoliseus patagonus,L3873008,cachiyuyo,2015-08-27 10:30,2.0,-29.0309196,-70.8996463,True,-1,Atacama
@@ -1370,10 +1370,10 @@ shicow,Shiny Cowbird,Molothrus bonariensis,L3855093,Mall Easton Center,2015-08-2
 spfgal1,Spot-flanked Gallinule,Porphyriops melanops,L3481561,Parque Bicentenario de Vitacura (no contar cisnes),2015-08-28 16:00,25.0,-33.3980197,-70.6022,False,-1,Región Metropolitana de Santiago
 yewbla2,Yellow-winged Blackbird,Agelasticus thilius,L3481561,Parque Bicentenario de Vitacura (no contar cisnes),2015-08-28 16:00,15.0,-33.3980197,-70.6022,False,-1,Región Metropolitana de Santiago
 chithr1,Chiguanco Thrush,Turdus chiguanco,L4643328,el baluarte,2015-08-28 14:35,1.0,-34.4441673,-70.7809532,True,-1,Libertador General Bernardo O'Higgins
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-08-28 12:15,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-08-28 12:15,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 snoplo5,Snowy Plover,Charadrius nivosus,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-08-28 12:15,6.0,-32.6327613,-71.426518,False,-1,Valparaíso
 auspar1,Austral Parakeet,Enicognathus ferrugineus,L807764,Las Quemas Altas,2015-08-28 09:30,70.0,-40.6284479,-73.117919,False,-1,Los Lagos
-cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L572426,PN Lauca--Las Cuevas,2015-08-28 09:00,,-18.1670566,-69.4337654,False,-1,Arica y Parinacota
+cingrt1,Cinereous Ground-Tyrant,Muscisaxicola cinereus,L572426,PN Lauca--Las Cuevas,2015-08-28 09:00,0.0,-18.1670566,-69.4337654,False,-1,Arica y Parinacota
 semsan,Semipalmated Sandpiper,Calidris pusilla,L636004,Estero Tongoy--Desembocadura,2015-08-29 12:15,1.0,-30.25497,-71.49359,False,-1,Coquimbo
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L861844,Humedal Urbano Cartagena,2015-08-29 12:05,1.0,-33.5350454,-71.6022348,False,-1,Valparaíso
 whcpin,White-cheeked Pintail,Anas bahamensis,L516540,Río Huasco--Desembocadura,2015-08-29 11:30,3.0,-28.4481664,-71.2002039,False,-1,Atacama
@@ -1547,7 +1547,7 @@ whfibi,White-faced Ibis,Plegadis chihi,L516540,Río Huasco--Desembocadura,2015-0
 burpar,Burrowing Parakeet,Cyanoliseus patagonus,L815289,RN Río de Los Cipreses,2015-09-27 11:00,400.0,-34.3334254,-70.4160655,False,-1,Libertador General Bernardo O'Higgins
 stisan,Stilt Sandpiper,Calidris himantopus,L570658,SN Laguna Batuco,2015-09-27 10:30,1.0,-33.2064427,-70.8279133,False,-1,Región Metropolitana de Santiago
 amgplo,American Golden-Plover,Pluvialis dominica,L6451732,yendegahia rio,2015-09-27 10:00,5.0,-54.8449405,-68.8173723,True,-1,Magallanes
-redkno,Red Knot,Calidris canutus,L3931304,Arauco,2015-09-27 10:00,,-37.2404419,-73.3135271,True,-1,Bío-Bío
+redkno,Red Knot,Calidris canutus,L3931304,Arauco,2015-09-27 10:00,0.0,-37.2404419,-73.3135271,True,-1,Bío-Bío
 bfgtyr1,Black-fronted Ground-Tyrant,Muscisaxicola frontalis,L3053489,Los Maitenes,2015-09-27 09:00,3.0,-33.5320584,-70.26407,False,-1,Región Metropolitana de Santiago
 bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L3481561,Parque Bicentenario de Vitacura (no contar cisnes),2015-09-28 19:30,1.0,-33.3980197,-70.6022,False,-1,Región Metropolitana de Santiago
 cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L1153126,Valle de Azapa--Tranque Sobraya,2015-09-28 17:36,6.0,-18.5752738,-70.0235939,False,-1,Arica y Parinacota
@@ -1722,8 +1722,8 @@ sposan,Spotted Sandpiper,Actitis macularius,L668852,Río Lluta--Desembocadura,20
 stisan,Stilt Sandpiper,Calidris himantopus,L673642,Río Elqui--Desembocadura,2015-10-20 15:00,8.0,-29.8933968,-71.2727094,False,-1,Coquimbo
 speduc2,Spectacled Duck,Speculanas specularis,L2392199,Rio Maule - Tricahue bajo,2015-10-20 14:01,3.0,-35.721615,-71.17543,True,-1,Maule
 fragul,Franklin's Gull,Leucophaeus pipixcan,L572344,Río Aconcagua--Desembocadura Humedal Urbano,2015-10-20 10:30,190.0,-32.917422,-71.5067911,False,-1,Valparaíso
-stepet,Stejneger's Petrel,Pterodroma longirostris,L770069,PN Archipiélago de Juan Fernández,2015-10-20 09:00,,-33.644349,-78.8440018,False,-1,Valparaíso
-rebhaw2,Variable Hawk,Geranoaetus polyosoma,L770069,PN Archipiélago de Juan Fernández,2015-10-20 09:00,,-33.644349,-78.8440018,False,-1,Valparaíso
+stepet,Stejneger's Petrel,Pterodroma longirostris,L770069,PN Archipiélago de Juan Fernández,2015-10-20 09:00,0.0,-33.644349,-78.8440018,False,-1,Valparaíso
+rebhaw2,Variable Hawk,Geranoaetus polyosoma,L770069,PN Archipiélago de Juan Fernández,2015-10-20 09:00,0.0,-33.644349,-78.8440018,False,-1,Valparaíso
 pigdov1,Picui Ground Dove,Columbina picui,L3971306,"-34,6388x-70,9128 - 21 oct. 2015 17:50",2015-10-21 17:50,100.0,-34.63884,-70.912828,True,-1,Libertador General Bernardo O'Higgins
 scrcow1,Screaming Cowbird,Molothrus rufoaxillaris,L3971306,"-34,6388x-70,9128 - 21 oct. 2015 17:50",2015-10-21 17:50,1.0,-34.63884,-70.912828,True,-1,Libertador General Bernardo O'Higgins
 maspet3,Masatierra Petrel,Pterodroma defilippiana,L4081947,"36deg06'06""s, 76deg41'14""w",2015-10-21 13:50,1.0,-36.1016667,-76.6872222,True,-1,Bío-Bío
@@ -1757,7 +1757,7 @@ soater1,South American Tern,Sterna hirundinacea,L594739,Desembocadura río Aconc
 siltea1,Silver Teal,Spatula versicolor,L3974440,laguna cercana al rio las chinas,2015-10-23 14:00,11.0,-51.2539114,-72.6597548,True,-1,Magallanes
 lakduc1,Lake Duck,Oxyura vittata,L3974440,laguna cercana al rio las chinas,2015-10-23 14:00,11.0,-51.2539114,-72.6597548,True,-1,Magallanes
 bkfibi1,Black-faced Ibis,Theristicus melanopis,L3974440,laguna cercana al rio las chinas,2015-10-23 14:00,17.0,-51.2539114,-72.6597548,True,-1,Magallanes
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-10-23 12:30,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-10-23 12:30,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 redpha1,Red Phalarope,Phalaropus fulicarius,L594542,Embalse El Yeso--Vegas superiores,2015-10-23 12:00,1.0,-33.6250545,-70.0251281,False,-1,Región Metropolitana de Santiago
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L594542,Embalse El Yeso--Vegas superiores,2015-10-23 12:00,20.0,-33.6250545,-70.0251281,False,-1,Región Metropolitana de Santiago
 slbpar1,Slender-billed Parakeet,Enicognathus leptorhynchus,L3971304,"-36,6834x-72,2521 - 23 oct. 2015 10:05",2015-10-23 10:05,1000.0,-36.683361,-72.25211,True,-1,Ñuble
@@ -1791,7 +1791,7 @@ swtgul1,Swallow-tailed Gull,Creagrus furcatus,L4107540,"31deg28'43""s, 79deg09'0
 wbspet1,White-bellied Storm-Petrel,Fregetta grallaria,L4107540,"31deg28'43""s, 79deg09'05""w",2015-10-26 08:20,5.0,-31.4786111,-79.1347222,True,-1,Valparaíso
 stepet,Stejneger's Petrel,Pterodroma longirostris,L4107540,"31deg28'43""s, 79deg09'05""w",2015-10-26 08:20,1.0,-31.4786111,-79.1347222,True,-1,Valparaíso
 semsan,Semipalmated Sandpiper,Calidris pusilla,L504553,SN Humedal Río Maipo--Desembocadura,2015-10-26 07:30,3.0,-33.6198013,-71.6275442,False,-1,Valparaíso
-shbmin1,Short-billed Miner,Geositta antarctica,L1030753,PN Torres del Paine--Lago Grey (sector sur),2015-10-26,,-51.1165104,-73.122983,False,-1,Magallanes
+shbmin1,Short-billed Miner,Geositta antarctica,L1030753,PN Torres del Paine--Lago Grey (sector sur),2015-10-26,0.0,-51.1165104,-73.122983,False,-1,Magallanes
 perter2,Peruvian Tern,Sternula lorata,L3159367,Aeropuerto Chacalluta,2015-10-27 17:00,10.0,-18.3503714,-70.3347857,False,-1,Arica y Parinacota
 cappet,Cape Petrel,Daption capense,L3977103,"Mar Chileno, Península Taitao",2015-10-27 10:58,1.0,-46.65337,-75.733711,True,-1,Aisén del General Carlos Ibáñez del Campo
 stisan,Stilt Sandpiper,Calidris himantopus,L602292,Desembocadura Río Elqui,2015-10-27 09:00,8.0,-29.8940107,-71.2723231,True,-1,Coquimbo
@@ -1805,7 +1805,7 @@ grynod1,Gray Noddy,Anous albivitta,L4123150,"5-10 mi SSE of Isla Felix, Desventu
 sooter1,Sooty Tern,Onychoprion fuscatus,L4123150,"5-10 mi SSE of Isla Felix, Desventuradas",2015-10-28 08:30,80.0,-26.4283101,-80.0081259,True,-1,Chile
 wbspet1,White-bellied Storm-Petrel,Fregetta grallaria,L4123150,"5-10 mi SSE of Isla Felix, Desventuradas",2015-10-28 08:30,4.0,-26.4283101,-80.0081259,True,-1,Chile
 masboo,Masked Booby,Sula dactylatra,L4123150,"5-10 mi SSE of Isla Felix, Desventuradas",2015-10-28 08:30,15.0,-26.4283101,-80.0081259,True,-1,Chile
-cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L940016,Ferry Punta Delgada-Bahía Azul,2015-10-28 08:30,,-52.474654,-69.5339944,False,-1,Magallanes
+cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L940016,Ferry Punta Delgada-Bahía Azul,2015-10-28 08:30,0.0,-52.474654,-69.5339944,False,-1,Magallanes
 hudgod,Hudsonian Godwit,Limosa haemastica,L4008209,CL-Magallanes and Antartica Chilena-Primavera-Y-65 - -52.5357x-69.3967,2015-10-28 08:25,450.0,-52.535663,-69.396656,True,-1,Magallanes
 gyhalb,Gray-headed Albatross,Thalassarche chrysostoma,L3982234,"-50,4663x-74,8504 - 29 oct 2015 8:57 p.m.",2015-10-29 20:57,2.0,-50.466273,-74.850369,True,-1,Magallanes
 bkbalb,Black-browed Albatross,Thalassarche melanophris,L3982234,"-50,4663x-74,8504 - 29 oct 2015 8:57 p.m.",2015-10-29 20:57,500.0,-50.466273,-74.850369,True,-1,Magallanes
@@ -1871,10 +1871,10 @@ calqua,California Quail,Callipepla californica,L774555,Campus Sur -  Universidad
 ticdor1,Ticking Doradito,Pseudocolopteryx citreola,L504553,SN Humedal Río Maipo--Desembocadura,2015-11-05 10:45,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 whshil1,White-sided Hillstar,Oreotrochilus leucopleurus,L1066807,Quebrada del Durazno,2015-11-05 09:30,4.0,-33.5202882,-70.4864788,False,-1,Región Metropolitana de Santiago
 crachi1,Crag Chilia,Ochetorhynchus melanurus,L1066807,Quebrada del Durazno,2015-11-05 09:30,11.0,-33.5202882,-70.4864788,False,-1,Región Metropolitana de Santiago
-cappet,Cape Petrel,Daption capense,L19636426,Valparaiso Pelagic,2015-11-05 08:00,,-33.0268119,-71.6130182,True,-1,Valparaíso
+cappet,Cape Petrel,Daption capense,L19636426,Valparaiso Pelagic,2015-11-05 08:00,0.0,-33.0268119,-71.6130182,True,-1,Valparaíso
 bknsti,Black-necked Stilt,Himantopus mexicanus,L9676483,Lagunas en humedal Coyhaique Alto en la comuna de Coyhaique,2015-11-06 19:11,9.0,-45.4895437,-71.6281318,True,-1,Aisén del General Carlos Ibáñez del Campo
 musduc,Muscovy Duck,Cairina moschata,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-11-06 14:00,1.0,-32.6327613,-71.426518,False,1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-11-06 14:00,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2015-11-06 14:00,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L604818,SN Humedal Salinas de Pullally y Dunas de Longotoma--Desembocadura,2015-11-06 14:00,5.0,-32.4101103,-71.4107895,False,-1,Valparaíso
 perter2,Peruvian Tern,Sternula lorata,L3994036,"-18.4866x-70.4368 - Nov 6, 2015, 12:22 PM",2015-11-06 12:22,1.0,-18.486567,-70.436846,True,-1,Arica y Parinacota
 bfoboo,Blue-footed Booby,Sula nebouxii,L5725672,Castillo Wulff,2015-11-06 12:20,1.0,-33.0193831,-71.5649297,False,-1,Valparaíso
@@ -1942,8 +1942,8 @@ greegr,Great Egret,Ardea alba,L516549,Humedal Lagunillas,2015-11-13 19:25,41.0,-
 soater1,South American Tern,Sterna hirundinacea,L1033571,Transbordador Pargua-Chacao,2015-11-13 16:00,700.0,-41.8143142,-73.4916687,False,-1,Los Lagos
 guacor1,Guanay Cormorant,Leucocarbo bougainvillii,L1033571,Transbordador Pargua-Chacao,2015-11-13 16:00,2.0,-41.8143142,-73.4916687,False,-1,Los Lagos
 rubsee2,Rufous-bellied Seedsnipe,Attagis gayi,L4005509,CL-XV Arica and Parinacota Region-Putre-CH-11 - -18.1675x-69.4329,2015-11-13 09:51,28.0,-18.167518,-69.432918,True,-1,Arica y Parinacota
-chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-13 09:00,,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
-baytan3,Blue-and-yellow Tanager,Rauenia bonariensis,L570508,Putre,2015-11-13 09:00,,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
+chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-13 09:00,0.0,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
+baytan3,Blue-and-yellow Tanager,Rauenia bonariensis,L570508,Putre,2015-11-13 09:00,0.0,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
 pedpet1,Peruvian Diving-Petrel,Pelecanoides garnotii,L571139,Arica--Pelágico,2015-11-13 06:45,90.0,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
 bawnig1,Band-winged Nightjar,Systellura longirostris,L4009088,SN Serranía el Ciprés,2015-11-14 14:00,7.0,-32.6735994,-70.8098888,False,-1,Valparaíso
 barswa,Barn Swallow,Hirundo rustica,L606243,Humedal Tres Puentes,2015-11-14 11:00,2.0,-53.1162328,-70.8813,False,-1,Magallanes
@@ -1951,7 +1951,7 @@ semplo,Semipalmated Plover,Charadrius semipalmatus,L668852,Río Lluta--Desemboca
 stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,2015-11-14 10:25,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 wessan,Western Sandpiper,Calidris mauri,L668852,Río Lluta--Desembocadura,2015-11-14 10:25,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 perter2,Peruvian Tern,Sternula lorata,L668852,Río Lluta--Desembocadura,2015-11-14 10:25,10.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
-chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-14 10:00,,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
+chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-14 10:00,0.0,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
 ongtyr1,Ochre-naped Ground-Tyrant,Muscisaxicola flavinucha,L4017833,Laguna Blanca,2015-11-14 08:30,1.0,-38.3568351,-71.6443348,True,-1,Araucanía
 patmoc1,Patagonian Mockingbird,Mimus patagonicus,L4103820,Paso El Chingue,2015-11-15 17:35,2.0,-51.2257541,-72.3657846,False,-1,Magallanes
 punplo1,Puna Plover,Charadrius alticola,L3997325,"Laguna y Estero Km 65, Ruta D-115",2015-11-15 16:30,1.0,-29.4838517,-70.5635878,False,-1,Coquimbo
@@ -1964,12 +1964,12 @@ saffin,Saffron Finch,Sicalis flaveola,L1105799,Entrelagos,2015-11-15 14:15,1.0,-
 chifla1,Chilean Flamingo,Phoenicopterus chilensis,L1140459,RN El Yali--Laguna Matanzas,2015-11-15 13:00,2.0,-33.756208,-71.6919708,False,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1140459,RN El Yali--Laguna Matanzas,2015-11-15 13:00,4.0,-33.756208,-71.6919708,False,-1,Valparaíso
 leasan,Least Sandpiper,Calidris minutilla,L504553,SN Humedal Río Maipo--Desembocadura,2015-11-15 10:00,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
-chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-15 09:00,,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
+chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2015-11-15 09:00,0.0,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
 semplo,Semipalmated Plover,Charadrius semipalmatus,L3498432,desembocadura rio lluta,2015-11-16 16:00,40.0,-18.4165901,-70.3252459,True,-1,Arica y Parinacota
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L690093,SN Yerba Loca--entre entrada y zona de picnic,2015-11-16 13:49,10.0,-33.3238587,-70.3282928,False,-1,Región Metropolitana de Santiago
 wrlrus1,Wren-like Rushbird,Phleocryptes melanops,L1030742,PN Torres del Paine--Laguna Los Juncos,2015-11-17 15:15,2.0,-51.0273604,-72.7756906,False,-1,Magallanes
 spetyr1,Spectacled Tyrant,Hymenops perspicillatus,L1030742,PN Torres del Paine--Laguna Los Juncos,2015-11-17 15:15,2.0,-51.0273604,-72.7756906,False,-1,Magallanes
-stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,2015-11-17 15:00,,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
+stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,2015-11-17 15:00,0.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 mallar3,Mallard,Anas platyrhynchos,L572344,Río Aconcagua--Desembocadura Humedal Urbano,2015-11-17 14:00,2.0,-32.917422,-71.5067911,False,1,Valparaíso
 calqua,California Quail,Callipepla californica,L774555,Campus Sur -  Universidad de Chile,2015-11-17 12:30,7.0,-33.5708994,-70.6356955,False,0,Región Metropolitana de Santiago
 helpip1,Hellmayr's Pipit,Anthus hellmayri,L1112230,Río Biobío--Desembocadura,2015-11-17 11:00,2.0,-36.8092847,-73.1611633,False,-1,Bío-Bío
@@ -2029,14 +2029,14 @@ gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L819240,PN Laguna del Laja,2015-
 royalb1,Royal Albatross,Diomedea epomophora,L3552277,Drake Passage_2,2015-11-25,4.0,-58.2575,-64.6505556,True,-1,Magallanes
 wanalb,Wandering Albatross,Diomedea exulans,L3552277,Drake Passage_2,2015-11-25,2.0,-58.2575,-64.6505556,True,-1,Magallanes
 norgip1,Northern Giant-Petrel,Macronectes halli,L3552277,Drake Passage_2,2015-11-25,4.0,-58.2575,-64.6505556,True,-1,Magallanes
-blupet1,Blue Petrel,Halobaena caerulea,L3552277,Drake Passage_2,2015-11-25,,-58.2575,-64.6505556,True,-1,Magallanes
-dovpri1,Antarctic Prion,Pachyptila desolata,L3552277,Drake Passage_2,2015-11-25,,-58.2575,-64.6505556,True,-1,Magallanes
+blupet1,Blue Petrel,Halobaena caerulea,L3552277,Drake Passage_2,2015-11-25,0.0,-58.2575,-64.6505556,True,-1,Magallanes
+dovpri1,Antarctic Prion,Pachyptila desolata,L3552277,Drake Passage_2,2015-11-25,0.0,-58.2575,-64.6505556,True,-1,Magallanes
 andcon1,Andean Condor,Vultur gryphus,L3497593,Palomares Hill,2015-11-26 16:15,42.0,-52.7107235,-71.3602438,False,-1,Magallanes
 bknsti,Black-necked Stilt,Himantopus mexicanus,L504553,SN Humedal Río Maipo--Desembocadura,2015-11-26 09:30,150.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 semsan,Semipalmated Sandpiper,Calidris pusilla,L504553,SN Humedal Río Maipo--Desembocadura,2015-11-26 09:30,12.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 royalb1,Royal Albatross,Diomedea epomophora,L3552277,Drake Passage_2,2015-11-26,1.0,-58.2575,-64.6505556,True,-1,Magallanes
 wanalb,Wandering Albatross,Diomedea exulans,L3552277,Drake Passage_2,2015-11-26,1.0,-58.2575,-64.6505556,True,-1,Magallanes
-blupet1,Blue Petrel,Halobaena caerulea,L3552277,Drake Passage_2,2015-11-26,,-58.2575,-64.6505556,True,-1,Magallanes
+blupet1,Blue Petrel,Halobaena caerulea,L3552277,Drake Passage_2,2015-11-26,0.0,-58.2575,-64.6505556,True,-1,Magallanes
 dovpri1,Antarctic Prion,Pachyptila desolata,L3552277,Drake Passage_2,2015-11-26,5.0,-58.2575,-64.6505556,True,-1,Magallanes
 rulowl1,Rufous-legged Owl,Strix rufipes,L857131,PN Radal Siete Tazas,2015-11-27 18:00,5.0,-35.4517209,-71.0362673,False,-1,Maule
 wrlrus1,Wren-like Rushbird,Phleocryptes melanops,L1030742,PN Torres del Paine--Laguna Los Juncos,2015-11-27 11:00,2.0,-51.0273604,-72.7756906,False,-1,Magallanes

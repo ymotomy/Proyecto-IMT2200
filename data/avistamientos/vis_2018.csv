@@ -117,7 +117,7 @@ grygul,Gray Gull,Leucophaeus modestus,L6791266,"Pampa Indio Muerto, norte Diego 
 mallar3,Mallard,Anas platyrhynchos,L6707254,"CL-Valparaíso-Puchuncaví (-32,6316,-71,4213)",2018-01-12 20:22,10.0,-32.631581,-71.421277,True,1,Valparaíso
 wepdov1,West Peruvian Dove,Zenaida meloda,L6719750,Inicio Cuesta Chacabuco,2018-01-12 18:15,1.0,-33.0133778,-70.7056046,True,-1,Región Metropolitana de Santiago
 semplo,Semipalmated Plover,Charadrius semipalmatus,L516521,Caulín,2018-01-12 16:30,3.0,-41.8259378,-73.6275078,False,-1,Los Lagos
-impcor1,Imperial Cormorant,Leucocarbo atriceps,L770027,Pilolcura,2018-01-13 16:00,,-39.6361666,-73.3207798,False,-1,Los Ríos
+impcor1,Imperial Cormorant,Leucocarbo atriceps,L770027,Pilolcura,2018-01-13 16:00,0.0,-39.6361666,-73.3207798,False,-1,Los Ríos
 gybsht1,Gray-bellied Shrike-Tyrant,Agriornis micropterus,L835069,Laguna del Maule,2018-01-13 16:00,2.0,-36.0565381,-70.4971291,False,-1,Maule
 whcpin,White-cheeked Pintail,Anas bahamensis,L5082246,San Pedro de Atacama--Estanque,2018-01-13 15:45,2.0,-22.9316904,-68.1950462,False,-1,Antofagasta
 whcswi,White-collared Swift,Streptoprocne zonaris,L3098933,Ruta CH-115--Sector Saltos del Maule,2018-01-13 13:49,7.0,-35.9588303,-70.5706894,False,-1,Maule
@@ -259,7 +259,7 @@ wepdov1,West Peruvian Dove,Zenaida meloda,L606195,Estero Catapilco--Desembocadur
 gragoo,Graylag Goose,Anser anser,L6718052,"Cucao, Villa",2018-01-28 15:09,20.0,-42.6317018,-74.1043337,True,1,Los Lagos
 belgul,Belcher's Gull,Larus belcheri,L516520,PN Pan de Azúcar--Caleta,2018-01-28 14:50,28.0,-26.1418778,-70.6625175,False,-1,Atacama
 siltea1,Silver Teal,Spatula versicolor,L6789787,"CL-Los Lagos-Maullín (-41,5931,-73,6718)",2018-01-28 13:30,16.0,-41.593148,-73.671785,True,-1,Los Lagos
-calqua,California Quail,Callipepla californica,L6819151,Cementerio Metropolitano,2018-01-28 11:30,,-33.5272646,-70.683825,True,0,Región Metropolitana de Santiago
+calqua,California Quail,Callipepla californica,L6819151,Cementerio Metropolitano,2018-01-28 11:30,0.0,-33.5272646,-70.683825,True,0,Región Metropolitana de Santiago
 sander,Sanderling,Calidris alba,L504553,SN Humedal Río Maipo--Desembocadura,2018-01-28 11:18,500.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 semsan,Semipalmated Sandpiper,Calidris pusilla,L504553,SN Humedal Río Maipo--Desembocadura,2018-01-28 11:18,4.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 ticdor1,Ticking Doradito,Pseudocolopteryx citreola,L504553,SN Humedal Río Maipo--Desembocadura,2018-01-28 11:18,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
@@ -379,8 +379,8 @@ wavalb,Waved Albatross,Phoebastria irrorata,L571139,Arica--Pelágico,2018-02-10 
 wispet,Wilson's Storm-Petrel,Oceanites oceanicus,L571139,Arica--Pelágico,2018-02-10 08:00,20.0,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
 wrspet,Wedge-rumped Storm-Petrel,Hydrobates tethys,L571139,Arica--Pelágico,2018-02-10 08:00,20.0,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
 bfoboo,Blue-footed Booby,Sula nebouxii,L1048910,Arica--Puerto,2018-02-10 07:51,1.0,-18.4724046,-70.3238511,False,-1,Arica y Parinacota
-slbpri1,Slender-billed Prion,Pachyptila belcheri,L6864389,"CL-Magallanes and Antartica Chilena-Oceano Pacifico (-52.1956,-74.9886)",2018-02-10 07:15,,-52.19565,-74.988619,True,-1,Magallanes
-wespet1,Westland Petrel,Procellaria westlandica,L6864389,"CL-Magallanes and Antartica Chilena-Oceano Pacifico (-52.1956,-74.9886)",2018-02-10 07:15,,-52.19565,-74.988619,True,-1,Magallanes
+slbpri1,Slender-billed Prion,Pachyptila belcheri,L6864389,"CL-Magallanes and Antartica Chilena-Oceano Pacifico (-52.1956,-74.9886)",2018-02-10 07:15,0.0,-52.19565,-74.988619,True,-1,Magallanes
+wespet1,Westland Petrel,Procellaria westlandica,L6864389,"CL-Magallanes and Antartica Chilena-Oceano Pacifico (-52.1956,-74.9886)",2018-02-10 07:15,0.0,-52.19565,-74.988619,True,-1,Magallanes
 pafear1,Patagonian Forest Earthcreeper,Upucerthia saturatior,L1309608,Termas de Chillán,2018-02-10 07:00,3.0,-36.9067285,-71.4109504,False,-1,Ñuble
 gybsht1,Gray-bellied Shrike-Tyrant,Agriornis micropterus,L6862461,"Región de Tarapaca, Pozo Almonte CL-Tarapacá (-20,4029,-69,6308)",2018-02-11 17:34,1.0,-20.402945,-69.630777,True,-1,Tarapacá
 flistd1,Flightless Steamer-Duck,Tachyeres pteneres,L774640,Aucar,2018-02-11 17:15,54.0,-42.164485,-73.4812617,False,-1,Los Lagos
@@ -418,7 +418,7 @@ wfspet,White-faced Storm-Petrel,Pelagodroma marina,L6930280,"(-38,5372,-74,2721)
 dustap1,Dusky Tapaculo,Scytalopus fuscus,L3857745,San Francisco Lodge,2018-02-13 08:06,1.0,-32.7580629,-70.4803419,False,-1,Valparaíso
 lotjae,Long-tailed Jaeger,Stercorarius longicaudus,L6930291,"(-38,8493,-74,2718)",2018-02-13 07:51,1.0,-38.849328,-74.271796,True,-1,Bío-Bío
 blupet1,Blue Petrel,Halobaena caerulea,L6960550,"(-56.2349,-65.7994)",2018-02-13 07:13,1.0,-56.234932,-65.79944,True,-1,Magallanes
-willet1,Willet,Tringa semipalmata,L9158799,Plaza de Armas de La Serena,2018-02-13,,-29.9027606,-71.2519454,False,-1,Coquimbo
+willet1,Willet,Tringa semipalmata,L9158799,Plaza de Armas de La Serena,2018-02-13,0.0,-29.9027606,-71.2519454,False,-1,Coquimbo
 banswa,Bank Swallow,Riparia riparia,L9158799,Plaza de Armas de La Serena,2018-02-13,1.0,-29.9027606,-71.2519454,False,-1,Coquimbo
 shicow,Shiny Cowbird,Molothrus bonariensis,L3914417,Parque Uruguay,2018-02-14 16:30,55.0,-33.4220439,-70.6155213,False,-1,Región Metropolitana de Santiago
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L5067776,Camino Valle Nevado--Plaza de los Pumas,2018-02-14 14:15,5.0,-33.3598718,-70.2904201,False,-1,Región Metropolitana de Santiago
@@ -570,7 +570,7 @@ osprey,Osprey,Pandion haliaetus,L571417,Lago Colbún,2018-03-03 09:30,1.0,-35.71
 blkski,Black Skimmer,Rynchops niger,L7020761,"playa los molinos Región de los Ríos, CL (-39,846, -73,393)",2018-03-04 20:10,1.0,-39.8464791,-73.3928263,True,-1,Los Ríos
 flistd1,Flightless Steamer-Duck,Tachyeres pteneres,L4288889,Punta Gusano,2018-03-04 18:01,21.0,-54.9250211,-67.6110864,False,-1,Magallanes
 slbpri1,Slender-billed Prion,Pachyptila belcheri,L7059913,"(-57.714, -65.531)",2018-03-04 15:42,1.0,-57.7138106,-65.5313563,True,-1,Magallanes
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3222928,Glaciar del Morado,2018-03-04 12:10,,-33.747727,-70.0523579,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3222928,Glaciar del Morado,2018-03-04 12:10,0.0,-33.747727,-70.0523579,False,-1,Región Metropolitana de Santiago
 chiwig1,Chiloe Wigeon,Mareca sibilatrix,L3984468,SN El Zaino–Laguna El Copín--Laguna El Copín,2018-03-04 10:30,100.0,-32.6014217,-70.5571604,False,-1,Valparaíso
 whwcoo1,White-winged Coot,Fulica leucoptera,L3984468,SN El Zaino–Laguna El Copín--Laguna El Copín,2018-03-04 10:30,90.0,-32.6014217,-70.5571604,False,-1,Valparaíso
 greyel,Greater Yellowlegs,Tringa melanoleuca,L3984468,SN El Zaino–Laguna El Copín--Laguna El Copín,2018-03-04 10:30,3.0,-32.6014217,-70.5571604,False,-1,Valparaíso
@@ -857,7 +857,7 @@ whfibi,White-faced Ibis,Plegadis chihi,L502857,Tranque La Cadellada,2018-04-03 1
 crrmin1,Creamy-rumped Miner,Geositta isabellina,L7182572,"Localidad desconocida - (-29.824, -70.025)",2018-04-03 11:31,1.0,-29.8237049,-70.0249067,True,-1,Coquimbo
 calqua,California Quail,Callipepla californica,L774555,Campus Sur -  Universidad de Chile,2018-04-03 10:23,3.0,-33.5708994,-70.6356955,False,0,Región Metropolitana de Santiago
 chifla1,Chilean Flamingo,Phoenicopterus chilensis,L516501,El Yali--Las Salinas,2018-04-03 10:01,5.0,-33.8038279,-71.7119694,False,-1,Valparaíso
-btsfin1,Band-tailed Sierra Finch,Rhopospina alaudina,L516501,El Yali--Las Salinas,2018-04-03 10:01,,-33.8038279,-71.7119694,False,-1,Valparaíso
+btsfin1,Band-tailed Sierra Finch,Rhopospina alaudina,L516501,El Yali--Las Salinas,2018-04-03 10:01,0.0,-33.8038279,-71.7119694,False,-1,Valparaíso
 whfibi,White-faced Ibis,Plegadis chihi,L781263,Huasco,2018-04-04 16:00,1.0,-28.4671822,-71.2262535,False,-1,Atacama
 whtgre3,White-tufted Grebe,Rollandia rolland,L635297,Humedal de Putú,2018-04-04 15:15,72.0,-35.1553896,-72.2467804,False,-1,Maule
 amgplo,American Golden-Plover,Pluvialis dominica,L718035,Península Cavancha,2018-04-04 14:50,2.0,-20.2357846,-70.1519966,False,-1,Tarapacá
@@ -1218,7 +1218,7 @@ relcor1,Red-legged Cormorant,Poikilocarbo gaimardi,L7470290,Islote--Matanzas,201
 bawnig3,Tschudi's Nightjar,Systellura decussata,L5044106,Valle Río Camarones,2018-05-26 12:15,5.0,-19.1087983,-70.1255608,False,-1,Arica y Parinacota
 slbpar1,Slender-billed Parakeet,Enicognathus leptorhynchus,L7469434,"CL-Maule-Colbún (-35,8399,-71,2954)",2018-05-26 08:45,20.0,-35.839875,-71.295418,True,-1,Maule
 shyalb2,Chatham Albatross,Thalassarche eremita,L570174,Quintero--Pelágico,2018-05-26 07:45,1.0,-32.7693779,-71.5838242,False,-1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L861844,Humedal Urbano Cartagena,2018-05-27 15:40,,-33.5350454,-71.6022348,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L861844,Humedal Urbano Cartagena,2018-05-27 15:40,0.0,-33.5350454,-71.6022348,False,1,Valparaíso
 sander,Sanderling,Calidris alba,L504548,Estero Mantagua,2018-05-27 13:37,1100.0,-32.8844165,-71.5067482,False,-1,Valparaíso
 snoplo5,Snowy Plover,Charadrius nivosus,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2018-05-27 12:10,9.0,-32.6327613,-71.426518,False,-1,Valparaíso
 fragul,Franklin's Gull,Leucophaeus pipixcan,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2018-05-27 12:10,1.0,-32.6327613,-71.426518,False,-1,Valparaíso
@@ -1284,7 +1284,7 @@ murpet,Murphy's Petrel,Pterodroma ultima,L7575582,Acantilados en Poike,2018-06-0
 wbgtyr1,White-browed Ground-Tyrant,Muscisaxicola albilora,L3143843,"Quebrada Carrizo, curso inferior",2018-06-09 10:53,1.0,-23.6973399,-70.4183024,True,-1,Antofagasta
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L7543371,"San Carlos de APOQUINDO Las Condes, Región Metropolitana, CL (-33,392, -70,494)",2018-06-09 09:20,2.0,-33.3918137,-70.4938466,True,-1,Región Metropolitana de Santiago
 rucdot1,Rufous-chested Dotterel,Charadrius modestus,L884715,Antofagasta--playa frente a Universidad,2018-06-09 08:47,1.0,-23.7022519,-70.4241979,False,-1,Antofagasta
-wrlrus1,Wren-like Rushbird,Phleocryptes melanops,L2466880,Río Loa--Puente Ruta 24,2018-06-09 08:30,,-22.2781364,-69.5607519,False,-1,Antofagasta
+wrlrus1,Wren-like Rushbird,Phleocryptes melanops,L2466880,Río Loa--Puente Ruta 24,2018-06-09 08:30,0.0,-22.2781364,-69.5607519,False,-1,Antofagasta
 andhil3,Andean Hillstar,Oreotrochilus estella,L7596790,Achacagua,2018-06-10 16:50,12.0,-19.7755076,-69.1418767,False,-1,Tarapacá
 cocher1,Cocoi Heron,Ardea cocoi,L717769,Antofagasta--Caleta,2018-06-10 13:50,1.0,-23.6419983,-70.3983092,False,-1,Antofagasta
 bichaw4,Chilean Hawk,Accipiter chilensis,L981686,MN Laguna de los Cisnes--Laguna Verde,2018-06-11 17:38,1.0,-53.1879333,-70.3413391,False,-1,Magallanes
@@ -1295,7 +1295,7 @@ pigdov1,Picui Ground Dove,Columbina picui,L3567486,Quebrada El Arrayán--La Vill
 soasni3,Magellanic Snipe,Gallinago magellanica,L504553,SN Humedal Río Maipo--Desembocadura,2018-06-12 14:25,7.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 osprey,Osprey,Pandion haliaetus,L7565912,mejillones,2018-06-12 11:20,1.0,-23.0839166,-70.4176211,True,-1,Antofagasta
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3311162,Parque Público Comunitario Panul,2018-06-12 08:46,150.0,-33.5387477,-70.5237722,False,-1,Región Metropolitana de Santiago
-brtcur,Bristle-thighed Curlew,Numenius tahitiensis,L674593,Isla de Pascua (Usar puntos exactos por favor),2018-06-12,,-27.1242299,-109.3754196,False,-1,Valparaíso
+brtcur,Bristle-thighed Curlew,Numenius tahitiensis,L674593,Isla de Pascua (Usar puntos exactos por favor),2018-06-12,0.0,-27.1242299,-109.3754196,False,-1,Valparaíso
 whfibi,White-faced Ibis,Plegadis chihi,L791057,Estero El Culebrón--Desembocadura,2018-06-13 18:08,25.0,-29.9617015,-71.3218206,False,-1,Coquimbo
 mallar3,Mallard,Anas platyrhynchos,L7566949,"278 G-98-F, Algarrobo, Región de Valparaíso, CL (-33,355, -71,653)",2018-06-13 16:03,7.0,-33.3548617,-71.65287,True,1,Valparaíso
 pigdov1,Picui Ground Dove,Columbina picui,L504549,Punta Teatinos--Laguna Saladita,2018-06-15 13:18,35.0,-29.8220854,-71.2886524,False,-1,Coquimbo
@@ -1462,11 +1462,11 @@ permea1,Peruvian Meadowlark,Leistes bellicosus,L7732605,Río Loa--Desembocadura,
 sctear1,Scale-throated Earthcreeper,Upucerthia dumetaria,L7714768,"Coquimbo, Región de Coquimbo, CL (-30,328, -71,441) Angostura",2018-07-15 10:12,7.0,-30.3281386,-71.4411823,True,-1,Coquimbo
 blkrai,Black Rail,Laterallus jamaicensis,L504553,SN Humedal Río Maipo--Desembocadura,2018-07-15 09:00,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 whtcar1,White-throated Caracara,Daptrius albogularis,L7717573,Vertedero Puerto Williams,2018-07-16 14:57,3.0,-54.9367575,-67.5887004,True,-1,Magallanes
-creduc1,Crested Duck,Lophonetta specularioides,L2900685,Hacienda El Tangue,2018-07-16 14:45,,-30.3403211,-71.5658158,False,-1,Coquimbo
+creduc1,Crested Duck,Lophonetta specularioides,L2900685,Hacienda El Tangue,2018-07-16 14:45,0.0,-30.3403211,-71.5658158,False,-1,Coquimbo
 redjun,Red Junglefowl,Gallus gallus,L6606735,Aituy,2018-07-16 14:30,15.0,-42.8205777,-73.4781886,True,1,Los Lagos
 burpar,Burrowing Parakeet,Cyanoliseus patagonus,L4576254,Monardez,2018-07-16 13:17,12.0,-29.9269942,-71.1730814,False,-1,Coquimbo
 barswa,Barn Swallow,Hirundo rustica,L504548,Estero Mantagua,2018-07-16 13:04,1.0,-32.8844165,-71.5067482,False,-1,Valparaíso
-chifla1,Chilean Flamingo,Phoenicopterus chilensis,L1819585,SN Humedales de Tongoy--Salinas Grande,2018-07-16 12:20,,-30.2981285,-71.537872,False,-1,Coquimbo
+chifla1,Chilean Flamingo,Phoenicopterus chilensis,L1819585,SN Humedales de Tongoy--Salinas Grande,2018-07-16 12:20,0.0,-30.2981285,-71.537872,False,-1,Coquimbo
 whfibi,White-faced Ibis,Plegadis chihi,L1415637,Río Imperial,2018-07-16 12:05,48.0,-38.7560612,-73.418394,True,-1,Araucanía
 laugul,Laughing Gull,Leucophaeus atricilla,L571538,Hoteles Apacheta y Arica,2018-07-16 09:07,1.0,-18.4907641,-70.3291285,False,-1,Arica y Parinacota
 andduc1,Andean Duck,Oxyura ferruginea,L3638924,Laguna San Pedro,2018-07-17 17:05,13.0,-38.439279,-71.333663,False,-1,Araucanía
@@ -1569,7 +1569,7 @@ whtcar1,White-throated Caracara,Daptrius albogularis,L682344,PN Torres del Paine
 whcela1,White-crested Elaenia,Elaenia albiceps,L7920762,"Parque Nacional Bosque Fray Jorge, Región de Coquimbo",2018-08-04 07:30,1.0,-30.651964,-71.685957,True,-1,Coquimbo
 grekis,Great Kiskadee,Pitangus sulphuratus,L3151116,Taltal,2018-08-04,1.0,-25.4009902,-70.4815865,False,-1,Antofagasta
 gragoo,Graylag Goose,Anser anser,L1066157,Putemún,2018-08-05 13:25,5.0,-42.419148,-73.7371015,False,1,Los Lagos
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L813546,El Alfalfal,2018-08-05 12:00,,-33.5184992,-70.2220345,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L813546,El Alfalfal,2018-08-05 12:00,0.0,-33.5184992,-70.2220345,False,-1,Región Metropolitana de Santiago
 snoplo5,Snowy Plover,Charadrius nivosus,L862580,Isla Santa María,2018-08-05 11:00,3.0,-37.0348991,-73.5074615,False,-1,Bío-Bío
 rudtur,Ruddy Turnstone,Arenaria interpres,L862580,Isla Santa María,2018-08-05 11:00,9.0,-37.0348991,-73.5074615,False,-1,Bío-Bío
 whbbla2,White-browed Meadowlark,Leistes superciliaris,L904625,Río Loa--Desembocadura,2018-08-05,1.0,-21.4292013,-70.0585485,False,-1,Tarapacá
@@ -1682,7 +1682,7 @@ robpoc1,Rosy-billed Pochard,Netta peposaca,L604466,Río Choapa--Desembocadura,20
 soasni3,Magellanic Snipe,Gallinago magellanica,L604466,Río Choapa--Desembocadura,2018-08-19 09:22,15.0,-31.6204244,-71.5592766,False,-1,Coquimbo
 ashgoo1,Ashy-headed Goose,Chloephaga poliocephala,L907103,Laguna Jara,2018-08-20 17:00,200.0,-38.4531854,-71.2938881,False,-1,Araucanía
 blnswa2,Black-necked Swan,Cygnus melancoryphus,L6230052,Cementerio Parque del Recuerdo Huechuraba,2018-08-20 12:00,2.0,-33.3838125,-70.6347191,False,-1,Región Metropolitana de Santiago
-gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L6230052,Cementerio Parque del Recuerdo Huechuraba,2018-08-20 12:00,,-33.3838125,-70.6347191,False,-1,Región Metropolitana de Santiago
+gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L6230052,Cementerio Parque del Recuerdo Huechuraba,2018-08-20 12:00,0.0,-33.3838125,-70.6347191,False,-1,Región Metropolitana de Santiago
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L2703480,"La Serena Golf--Playa, Dunas y Cancha",2018-08-21 16:27,2.0,-29.8441471,-71.2780612,False,-1,Coquimbo
 whfibi,White-faced Ibis,Plegadis chihi,L7333049,Quebrada de Peñuelas--Poniente,2018-08-21 14:00,23.0,-29.9496093,-71.2721516,False,-1,Coquimbo
 semsan,Semipalmated Sandpiper,Calidris pusilla,L504553,SN Humedal Río Maipo--Desembocadura,2018-08-21 12:50,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
@@ -1996,7 +1996,7 @@ lotmea1,Long-tailed Meadowlark,Leistes loyca,L2333142,Parque Bicentenario de Cer
 cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L5050511,Valle del Río Camarones--Campos de alfalfa,2018-09-30 17:00,2.0,-19.1141103,-70.1313972,False,-1,Arica y Parinacota
 rayfin1,Raimondi's Yellow-Finch,Sicalis raimondii,L5050511,Valle del Río Camarones--Campos de alfalfa,2018-09-30 17:00,30.0,-19.1141103,-70.1313972,False,-1,Arica y Parinacota
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1011175,Quebrada Escobares,2018-09-30 15:15,2.0,-33.0847099,-71.3012695,False,-1,Valparaíso
-mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2018-09-30 12:36,,-32.6327613,-71.426518,False,1,Valparaíso
+mallar3,Mallard,Anas platyrhynchos,L606195,Estero Catapilco--Desembocadura (Laguna Zapallar),2018-09-30 12:36,0.0,-32.6327613,-71.426518,False,1,Valparaíso
 lotjae,Long-tailed Jaeger,Stercorarius longicaudus,L571139,Arica--Pelágico,2018-09-30 07:30,4.0,-18.4952381,-70.3791046,False,-1,Arica y Parinacota
 wfwduc1,White-faced Whistling-Duck,Dendrocygna viduata,L7979954,"Unnamed Road, Maullín, Región de los Lagos, CL (-41.581, -73.639)",2018-10-01 15:30,2.0,-41.58052,-73.6385864,True,-1,Los Lagos
 ruhgoo1,Ruddy-headed Goose,Chloephaga rubidiceps,L2473211,Desembocadura Río Santa Maria,2018-10-01 14:00,30.0,-53.6779,-70.9741259,True,-1,Magallanes
@@ -2134,7 +2134,7 @@ gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L833034,Embalse de la Luz,2018-1
 bichaw4,Chilean Hawk,Accipiter chilensis,L1030753,PN Torres del Paine--Lago Grey (sector sur),2018-10-17 11:30,1.0,-51.1165104,-73.122983,False,-1,Magallanes
 gryfin2,Greater Yellow-Finch,Sicalis auriventris,L7197951,Vega Manantiales,2018-10-17 10:59,500.0,-33.3293598,-70.2975641,True,-1,Región Metropolitana de Santiago
 scrcow1,Screaming Cowbird,Molothrus rufoaxillaris,L3287262,Los Lingues (O'Higgins),2018-10-17 10:00,2.0,-34.5189623,-70.8795512,False,-1,Libertador General Bernardo O'Higgins
-whbmoc1,White-banded Mockingbird,Mimus triurus,L8040616,"Puerto Montt, Región de los Lagos, CL (-41.486, -72.899)",2018-10-17 09:03,,-41.4862249,-72.8992304,True,-1,Los Lagos
+whbmoc1,White-banded Mockingbird,Mimus triurus,L8040616,"Puerto Montt, Región de los Lagos, CL (-41.486, -72.899)",2018-10-17 09:03,0.0,-41.4862249,-72.8992304,True,-1,Los Lagos
 helpip1,Hellmayr's Pipit,Anthus hellmayri,L8049889,Cruce hacia Linares,2018-10-17 08:00,2.0,-35.5744923,-71.3631688,True,-1,Maule
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L4461369,Lomas de El Manzano,2018-10-18 17:50,1.0,-33.5798597,-70.3935436,False,-1,Región Metropolitana de Santiago
 gragoo,Graylag Goose,Anser anser,L1074030,Pucón--La Poza,2018-10-18 16:40,5.0,-39.2775731,-71.979914,False,1,Araucanía
@@ -2357,7 +2357,7 @@ ausneg1,Austral Negrito,Lessonia rufa,L516540,Río Huasco--Desembocadura,2018-11
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L6465384,SN San Francisco de Lagunillas y Quillayal--Lagunillas,2018-11-14 17:00,1.0,-33.605127,-70.286716,False,-1,Región Metropolitana de Santiago
 barswa,Barn Swallow,Hirundo rustica,L822631,Buque Quemado,2018-11-14 14:00,3.0,-52.4068174,-69.5719528,False,-1,Magallanes
 comter,Common Tern,Sterna hirundo,L668852,Río Lluta--Desembocadura,2018-11-14 08:46,250.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
-pasfin1,Patagonian Sierra Finch,Phrygilus patagonicus,L572347,Cruce Bahía Azul,2018-11-14,,-52.4948009,-69.5207977,False,-1,Magallanes
+pasfin1,Patagonian Sierra Finch,Phrygilus patagonicus,L572347,Cruce Bahía Azul,2018-11-14,0.0,-52.4948009,-69.5207977,False,-1,Magallanes
 mallar3,Mallard,Anas platyrhynchos,L2925268,Estero Marga Marga,2018-11-15 19:00,6.0,-33.0213799,-71.5589654,False,1,Valparaíso
 barswa,Barn Swallow,Hirundo rustica,L6493189,Lago Azul,2018-11-15 19:00,2.0,-53.3658931,-70.3349662,False,-1,Magallanes
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3445957,Cerro Delicias,2018-11-15 17:30,2.0,-33.057571,-71.589644,False,-1,Valparaíso
@@ -2373,7 +2373,7 @@ whfibi,White-faced Ibis,Plegadis chihi,L8149051,"La Serena, Región de Coquimbo,
 margod,Marbled Godwit,Limosa fedoa,L668852,Río Lluta--Desembocadura,2018-11-16 16:00,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 yelpip3,Peruvian Pipit,Anthus peruvianus,L668852,Río Lluta--Desembocadura,2018-11-16 16:00,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 shyalb2,Chatham Albatross,Thalassarche eremita,L2855952,Iquique--Pelágico,2018-11-16 14:00,1.0,-20.2101783,-70.2145729,False,-1,Tarapacá
-rispet1,Ringed Storm-Petrel,Hydrobates hornbyi,L2855952,Iquique--Pelágico,2018-11-16 14:00,,-20.2101783,-70.2145729,False,-1,Tarapacá
+rispet1,Ringed Storm-Petrel,Hydrobates hornbyi,L2855952,Iquique--Pelágico,2018-11-16 14:00,0.0,-20.2101783,-70.2145729,False,-1,Tarapacá
 wtsfin1,White-throated Sierra Finch,Idiopsar erythronotus,L8153043,CH-11 before PN Lauca,2018-11-16 13:18,7.0,-18.1653953,-69.4585232,True,-1,Arica y Parinacota
 amgplo,American Golden-Plover,Pluvialis dominica,L2349056,PN Lauca--Estación CONAF,2018-11-17 18:06,1.0,-18.2507578,-69.1767775,False,-1,Arica y Parinacota
 burowl,Burrowing Owl,Athene cunicularia,L8166188,Bosques de Montemar,2018-11-17 16:30,3.0,-32.9502096,-71.5372896,False,-1,Valparaíso
@@ -2409,8 +2409,8 @@ whfibi,White-faced Ibis,Plegadis chihi,L791057,Estero El Culebrón--Desembocadur
 shbmin1,Short-billed Miner,Geositta antarctica,L8115944,Torres Del Paine,2018-11-21 11:00,1.0,-51.1877789,-72.9697826,True,-1,Magallanes
 rubmin1,Rufous-banded Miner,Geositta rufipennis,L2418503,PN Torres del Paine--Sendero entre porterías,2018-11-21 09:45,1.0,-51.000361,-72.7882004,False,-1,Magallanes
 cosswa1,Coscoroba Swan,Coscoroba coscoroba,L516547,Isla Robinson Crusoe,2018-11-21 09:00,1.0,-33.6454923,-78.8323975,False,-1,Valparaíso
-juffir1,Juan Fernandez Firecrown,Sephanoides fernandensis,L516547,Isla Robinson Crusoe,2018-11-21 09:00,,-33.6454923,-78.8323975,False,-1,Valparaíso
-jfttyr1,Juan Fernandez Tit-Tyrant,Anairetes fernandezianus,L516547,Isla Robinson Crusoe,2018-11-21 09:00,,-33.6454923,-78.8323975,False,-1,Valparaíso
+juffir1,Juan Fernandez Firecrown,Sephanoides fernandensis,L516547,Isla Robinson Crusoe,2018-11-21 09:00,0.0,-33.6454923,-78.8323975,False,-1,Valparaíso
+jfttyr1,Juan Fernandez Tit-Tyrant,Anairetes fernandezianus,L516547,Isla Robinson Crusoe,2018-11-21 09:00,0.0,-33.6454923,-78.8323975,False,-1,Valparaíso
 strwoo6,Striped Woodpecker,Dryobates lignarius,L572759,PN La Campana--Ocoa,2018-11-21 08:49,7.0,-32.9273735,-71.0856199,False,-1,Valparaíso
 pattyr2,Patagonian Tyrant,Colorhamphus parvirostris,L3717931,Coliumo,2018-11-21,2.0,-36.5518705,-72.9571152,False,-1,Bío-Bío
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L7197564,La Parva--Pueblo,2018-11-22 19:10,2.0,-33.3346194,-70.2905418,False,-1,Región Metropolitana de Santiago
@@ -2434,7 +2434,7 @@ blupet1,Blue Petrel,Halobaena caerulea,L8178144,"At sea -56.0251,-65.3320",2018-
 sander,Sanderling,Calidris alba,L6710507,Estuario y desembocadura Río Maipo,2018-11-24 18:02,3800.0,-33.619703,-71.630928,True,-1,Valparaíso
 blasis1,Black Siskin,Spinus atratus,L8185783,Vallecillo--Llanos y humedal,2018-11-24 18:00,26.0,-29.9901441,-70.0500375,False,-1,Coquimbo
 flystd1,Flying Steamer-Duck,Tachyeres patachonicus,L835069,Laguna del Maule,2018-11-24 17:00,1.0,-36.0565381,-70.4971291,False,-1,Maule
-chutap1,Chucao Tapaculo,Scelorchilus rubecula,L3954733,SN Alto Huemul--Bosque y matorral,2018-11-24 16:00,,-34.890736,-70.6619275,False,-1,Libertador General Bernardo O'Higgins
+chutap1,Chucao Tapaculo,Scelorchilus rubecula,L3954733,SN Alto Huemul--Bosque y matorral,2018-11-24 16:00,0.0,-34.890736,-70.6619275,False,-1,Libertador General Bernardo O'Higgins
 pasfin1,Patagonian Sierra Finch,Phrygilus patagonicus,L3954733,SN Alto Huemul--Bosque y matorral,2018-11-24 16:00,1.0,-34.890736,-70.6619275,False,-1,Libertador General Bernardo O'Higgins
 crrmin1,Creamy-rumped Miner,Geositta isabellina,L8185542,Ruta D-397 Majada Casanga,2018-11-24 10:45,11.0,-29.9288254,-69.9748551,True,-1,Coquimbo
 bryfin1,Bright-rumped Yellow-Finch,Sicalis uropygialis,L1066188,Farellones--Acantilados,2018-11-24 10:11,1.0,-33.365983,-70.3065964,False,-1,Región Metropolitana de Santiago
@@ -2603,7 +2603,7 @@ gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L3445957,Cerro Delicias,2018-12-
 tuttyr1,Tufted Tit-Tyrant,Anairetes parulus,L8271956,"(-53.3686,-69.8532)",2018-12-18 12:42,1.0,-53.368557,-69.853154,True,-1,Magallanes
 hoogre1,Hooded Grebe,Podiceps gallardoi,L8271660,"Y-71, Porvenir CL-Magallanes and Antartica Chilena (-53.3857,-70.3367)",2018-12-18 12:09,1.0,-53.385689,-70.336659,True,-1,Magallanes
 scrcow1,Screaming Cowbird,Molothrus rufoaxillaris,L8286676,h-190,2018-12-18 08:00,2.0,-34.120291,-70.825233,True,-1,Libertador General Bernardo O'Higgins
-rosspo1,Roseate Spoonbill,Platalea ajaja,L8293126,"A-210, Arica, Región de Arica y Parinacota, CL (-18,416, -70,322)",2018-12-19 22:35,,-18.4161409,-70.322218,True,-1,Arica y Parinacota
+rosspo1,Roseate Spoonbill,Platalea ajaja,L8293126,"A-210, Arica, Región de Arica y Parinacota, CL (-18,416, -70,322)",2018-12-19 22:35,0.0,-18.4161409,-70.322218,True,-1,Arica y Parinacota
 musduc,Muscovy Duck,Cairina moschata,L1020637,Brisas del Sol,2018-12-19 17:00,1.0,-36.7704412,-73.0698287,False,1,Bío-Bío
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L8331911,Refugio Aleman Yerba loca,2018-12-19 15:30,4.0,-33.3250219,-70.3133928,True,-1,Región Metropolitana de Santiago
 chvtyr2,Chocolate-vented Tyrant,Neoxolmis rufiventris,L6341377,María Olvio,2018-12-19 14:10,1.0,-52.9452762,-70.8467102,False,-1,Magallanes
@@ -2621,15 +2621,15 @@ stepet,Stejneger's Petrel,Pterodroma longirostris,L8356737,"(-39.3629,-74.2419)"
 perboo1,Peruvian Booby,Sula variegata,L602414,Acantilados de la Quirilluca,2018-12-21 15:17,2465.0,-32.6874981,-71.4494133,False,-1,Valparaíso
 bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,L8284522,"(-18.4457,-69.1946)",2018-12-21 14:00,1.0,-18.445707,-69.194637,True,-1,Arica y Parinacota
 manshe,Manx Shearwater,Puffinus puffinus,L570161,Valparaíso--Pelágico,2018-12-21,1.0,-33.0008897,-71.9479179,False,-1,Valparaíso
-litshe4,Subantarctic Shearwater,Puffinus elegans,L571412,MN Islotes de Puñihuil,2018-12-21,,-41.9252706,-74.0392685,False,-1,Los Lagos
+litshe4,Subantarctic Shearwater,Puffinus elegans,L571412,MN Islotes de Puñihuil,2018-12-21,0.0,-41.9252706,-74.0392685,False,-1,Los Lagos
 rubsee2,Rufous-bellied Seedsnipe,Attagis gayi,L638139,Piedra Numerada,2018-12-22 16:30,4.0,-33.2972472,-70.2170563,False,-1,Región Metropolitana de Santiago
 wepdov1,West Peruvian Dove,Zenaida meloda,L504548,Estero Mantagua,2018-12-22 16:29,2.0,-32.8844165,-71.5067482,False,-1,Valparaíso
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L516539,SN Yerba Loca--Zona de picnic,2018-12-22 15:55,1.0,-33.3102312,-70.3240013,False,-1,Región Metropolitana de Santiago
 helpip1,Hellmayr's Pipit,Anthus hellmayri,L5094181,Paso Pino Hachado,2018-12-22 13:42,2.0,-38.6441598,-70.9391928,False,-1,Araucanía
 saffin,Saffron Finch,Sicalis flaveola,L6339160,Llanquihue--Laguna Loto,2018-12-22 11:42,1.0,-41.2549682,-73.0089998,False,-1,Los Lagos
-arcter,Arctic Tern,Sterna paradisaea,L570174,Quintero--Pelágico,2018-12-22 07:15,,-32.7693779,-71.5838242,False,-1,Valparaíso
+arcter,Arctic Tern,Sterna paradisaea,L570174,Quintero--Pelágico,2018-12-22 07:15,0.0,-32.7693779,-71.5838242,False,-1,Valparaíso
 manshe,Manx Shearwater,Puffinus puffinus,L570174,Quintero--Pelágico,2018-12-22 07:15,1.0,-32.7693779,-71.5838242,False,-1,Valparaíso
-oashum1,Oasis Hummingbird,Rhodopis vesper,L8294616,"7 E-885, Calle Larga, Región de Valparaíso, CL (-32,871, -70,588)",2018-12-23 20:25,,-32.8707708,-70.5875337,True,-1,Valparaíso
+oashum1,Oasis Hummingbird,Rhodopis vesper,L8294616,"7 E-885, Calle Larga, Región de Valparaíso, CL (-32,871, -70,588)",2018-12-23 20:25,0.0,-32.8707708,-70.5875337,True,-1,Valparaíso
 mallar3,Mallard,Anas platyrhynchos,L8294244,Algarrobo,2018-12-23 19:45,2.0,-33.3512731,-71.6468404,True,1,Valparaíso
 whcpin,White-cheeked Pintail,Anas bahamensis,L7964297,Chamiza--Playa,2018-12-23 17:21,4.0,-41.507,-72.857,False,-1,Los Lagos
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L6057635,Camino a Farellones--Plazoleta Negra,2018-12-23 15:05,1.0,-33.3520484,-70.329296,False,-1,Región Metropolitana de Santiago
