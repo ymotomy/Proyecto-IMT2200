@@ -494,7 +494,6 @@ mallar3,Mallard,Anas platyrhynchos,L1033569,Puerto Varas,2021-03-02,4.0,-41.3180
 saffin,Saffron Finch,Sicalis flaveola,L5054215,Villarrica--Humedal Urbano Mallolafken,2021-03-02,7.0,-39.278091,-72.2206329,False,-1,Araucanía
 amgplo,American Golden-Plover,Pluvialis dominica,L7187513,Playa Curiñanco,2021-03-02,1.0,-39.7278117,-73.3975124,False,-1,Los Ríos
 fotfly,Fork-tailed Flycatcher,Tyrannus savana,L6422966,Cartagena--Playa Grande frente al Humedal,2021-03-02,1.0,-33.5347592,-71.603474,False,-1,Valparaíso
-chifla1,Chilean Flamingo,Phoenicopterus chilensis,L904625,Río Loa--Desembocadura,,1.0,-21.4292013,-70.0585485,False,-1,Tarapacá
 whtkit,White-tailed Kite,Elanus leucurus,L976634,Cabo Blanco,2021-03-03,4.0,-39.7884884,-73.2486405,False,-1,Los Ríos
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L976634,Cabo Blanco,2021-03-03,95.0,-39.7884884,-73.2486405,False,-1,Los Ríos
 hudgod,Hudsonian Godwit,Limosa haemastica,L7964305,Chamiza--Humedal,2021-03-03,535.0,-41.498,-72.856,False,-1,Los Lagos
@@ -533,8 +532,6 @@ semsan,Semipalmated Sandpiper,Calidris pusilla,L570658,SN Laguna Batuco,2021-03-
 rosspo1,Roseate Spoonbill,Platalea ajaja,L570658,SN Laguna Batuco,2021-03-06,1.0,-33.2064427,-70.8279133,False,-1,Región Metropolitana de Santiago
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L11771245,Isla Teja--Cancha Los Pelues,2021-03-07,16.0,-39.807207,-73.263672,False,-1,Los Ríos
 pecsan,Pectoral Sandpiper,Calidris melanotos,L13464788,Humedal Chacayal,2021-03-07,2.0,-38.0402322,-72.9908279,False,-1,Araucanía
-baytan3,Blue-and-yellow Tanager,Rauenia bonariensis,L8048269,Miñita,,11.0,-19.0927124,-69.599436,False,-1,Tarapacá
-rayfin1,Raimondi's Yellow-Finch,Sicalis raimondii,L8048269,Miñita,,16.0,-19.0927124,-69.599436,False,-1,Tarapacá
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L11771245,Isla Teja--Cancha Los Pelues,2021-03-08,22.0,-39.807207,-73.263672,False,-1,Los Ríos
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L12935174,"Campamento Embalse Carén, Codelco",2021-03-08,5.0,-34.0888682,-71.187409,True,-1,Región Metropolitana de Santiago
 whshil1,White-sided Hillstar,Oreotrochilus leucopleurus,L16045753,Parque Nacional Cerro Castillo,2021-03-08,1.0,-46.0990734,-72.1905005,True,-1,Aisén del General Carlos Ibáñez del Campo
@@ -840,7 +837,6 @@ stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,202
 grhgul,Gray-hooded Gull,Chroicocephalus cirrocephalus,L668852,Río Lluta--Desembocadura,2021-04-16,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 comter,Common Tern,Sterna hirundo,L668852,Río Lluta--Desembocadura,2021-04-16,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 uplsan,Upland Sandpiper,Bartramia longicauda,L6768482,Pampa Chaca,2021-04-16,1.0,-18.6933261,-70.2032804,False,-1,Arica y Parinacota
-bkfibi2,Andean Ibis,Theristicus branickii,L3539317,kmt. 38.5,,2.0,-18.4062475,-70.005548,True,-1,Arica y Parinacota
 chithr1,Chiguanco Thrush,Turdus chiguanco,L570508,Putre,2021-04-17,28.0,-18.1964537,-69.5565677,False,-1,Arica y Parinacota
 rubmin1,Rufous-banded Miner,Geositta rufipennis,L1048926,PN Lauca--Chucuyo,2021-04-17,4.0,-18.2161033,-69.3014574,False,-1,Arica y Parinacota
 gresht1,Great Shrike-Tyrant,Agriornis lividus,L14507275,"9270000, Padre Hurtado CL-Metropolitana de Santiago -33.53328, -70.81135",2021-04-17,1.0,-33.53328,-70.81135,True,-1,Región Metropolitana de Santiago
@@ -888,7 +884,6 @@ rubmin1,Rufous-banded Miner,Geositta rufipennis,L9621846,Camino a Cerro Galera C
 hoogre1,Hooded Grebe,Podiceps gallardoi,L14624967,"52°50'39.6""S 69°48'49.1""W",2021-04-23,1.0,-52.8435582,-69.8139202,True,-1,Magallanes
 soasni3,Magellanic Snipe,Gallinago magellanica,L3279743,Ten-Ten,2021-04-23,27.0,-42.4682508,-73.7639773,False,-1,Los Lagos
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L1020109,SN Campo dunar de Concón,2021-04-23,4.0,-32.9422041,-71.548934,False,-1,Valparaíso
-fuesni1,Fuegian Snipe,Gallinago stricklandii,L23532688,Islote Albatros,,1.0,-54.4611401,-69.023596,True,-1,Magallanes
 uplsan,Upland Sandpiper,Bartramia longicauda,L10357747,Villa Pedro Lagos,2021-04-24,1.0,-18.451349,-70.2968359,False,-1,Arica y Parinacota
 souscr1,Southern Screamer,Chauna torquata,L14626156,Trafún,2021-04-24,1.0,-40.4704205,-72.9499032,True,-1,Los Lagos
 dafgrt1,Dark-faced Ground-Tyrant,Muscisaxicola maclovianus,L14599807,Río Simpson--Los Torreones,2021-04-24,20.0,-45.4244017,-72.4278622,False,-1,Aisén del General Carlos Ibáñez del Campo
@@ -1000,7 +995,6 @@ ashgoo1,Ashy-headed Goose,Chloephaga poliocephala,L5752125,Laguna Piedra Roja,20
 lesyel,Lesser Yellowlegs,Tringa flavipes,L14786311,"9620000, Curacaví CL-Metropolitana de Santiago (-33.4896,-71.0281)",2021-05-07,3.0,-33.489636,-71.028084,True,-1,Región Metropolitana de Santiago
 whfibi,White-faced Ibis,Plegadis chihi,L14786311,"9620000, Curacaví CL-Metropolitana de Santiago (-33.4896,-71.0281)",2021-05-07,8.0,-33.489636,-71.028084,True,-1,Región Metropolitana de Santiago
 auscan1,Austral Canastero,Asthenes anthoides,L14787382,Galera Chico,2021-05-07,1.0,-45.862916,-71.7455214,True,-1,Aisén del General Carlos Ibáñez del Campo
-tatdot1,Tawny-throated Dotterel,Oreopholus ruficollis,L5126473,Ticnamar,,10.0,-18.5814116,-69.4937983,False,-1,Arica y Parinacota
 shicow,Shiny Cowbird,Molothrus bonariensis,L10140471,"Villa Parque Austral, Osorno, Región de los Lagos, CL (-40.586, -73.113)",2021-05-08,128.0,-40.585844,-73.1131572,True,-1,Los Lagos
 jamfla1,James's Flamingo,Phoenicoparrus jamesi,L2982431,Coquimbo--Playa Changa,2021-05-08,1.0,-29.9598239,-71.3248301,False,-1,Coquimbo
 pepowl1,Peruvian Pygmy-Owl,Glaucidium peruanum,L4307012,Molinos,2021-05-08,5.0,-18.3838909,-69.9490821,True,-1,Arica y Parinacota
@@ -1016,7 +1010,6 @@ cthhue1,Chestnut-throated Huet-huet,Pteroptochos castaneus,L8044645,Lenga--Puebl
 rayfin1,Raimondi's Yellow-Finch,Sicalis raimondii,L674241,Codpa,2021-05-08,24.0,-18.8331146,-69.7450679,False,-1,Arica y Parinacota
 rempar,Red-masked Parakeet,Psittacara erythrogenys,L14297055,"2857 Avenida Alcalde Manuel Castillo Ibaceta, Arica, Arica y Parinacota, CL (-18.493, -70.288) CASA",2021-05-08,2.0,-18.4926321,-70.2878567,True,1,Arica y Parinacota
 saffin,Saffron Finch,Sicalis flaveola,L5054215,Villarrica--Humedal Urbano Mallolafken,2021-05-08,7.0,-39.278091,-72.2206329,False,-1,Araucanía
-cibgrt1,Cinnamon-bellied Ground-Tyrant,Muscisaxicola capistratus,L717746,PN Salar del Huasco,,2.0,-20.2939185,-68.8865089,False,-1,Tarapacá
 shicow,Shiny Cowbird,Molothrus bonariensis,L21951805,Parque Isabel Riquelme,2021-05-09,1000.0,-33.4833237,-70.7403975,False,-1,Región Metropolitana de Santiago
 wepdov1,West Peruvian Dove,Zenaida meloda,L16457546,"CASONA PATACON, Molina",2021-05-09,2.0,-35.0770186,-71.2610099,True,-1,Maule
 cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L516522,Pica,2021-05-09,2.0,-20.4873261,-69.3197823,False,-1,Tarapacá
@@ -1088,7 +1081,6 @@ siltea1,Silver Teal,Spatula versicolor,L3234434,Tranque Caimanes,2021-05-17,2.0,
 whfibi,White-faced Ibis,Plegadis chihi,L7333049,Quebrada de Peñuelas--Poniente,2021-05-17,21.0,-29.9496093,-71.2721516,False,-1,Coquimbo
 scrcow1,Screaming Cowbird,Molothrus rufoaxillaris,L6358978,SN Cerro Poqui,2021-05-17,1.0,-34.1866719,-71.0563087,False,-1,Libertador General Bernardo O'Higgins
 mallar3,Mallard,Anas platyrhynchos,L7855413,Villarrica--Costanera,2021-05-17,3.0,-39.2874655,-72.2201035,False,1,Araucanía
-chithr1,Chiguanco Thrush,Turdus chiguanco,L2246378,Belén,,3.0,-18.4667865,-69.5134282,False,-1,Arica y Parinacota
 hrshaw,Harris's Hawk,Parabuteo unicinctus,L15002434,"X-589, San Cristobal, Aysén, CL (-45,551, -71,947)",2021-05-18,1.0,-45.5506203,-71.9473885,True,-1,Aisén del General Carlos Ibáñez del Campo
 blnswa2,Black-necked Swan,Cygnus melancoryphus,L3824640,Viña Santa Rita,2021-05-18,1.0,-33.7274806,-70.6743193,False,-1,Región Metropolitana de Santiago
 robpoc1,Rosy-billed Pochard,Netta peposaca,L15003753,"Avenida Augusto Rivera Parga, Concepción CL-Bío-Bío (-36.8278,-73.0363)",2021-05-18,1.0,-36.827757,-73.036265,True,-1,Bío-Bío
@@ -1203,7 +1195,6 @@ andgul1,Andean Gull,Chroicocephalus serranus,L668852,Río Lluta--Desembocadura,2
 ycnher,Yellow-crowned Night-Heron,Nyctanassa violacea,L668852,Río Lluta--Desembocadura,2021-06-04,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 lakduc1,Lake Duck,Oxyura vittata,L6517732,"Huitag, Lago Calafquén",2021-06-04,121.0,-39.5169318,-72.2751638,True,-1,Los Ríos
 plurai1,Plumbeous Rail,Pardirallus sanguinolentus,L6517732,"Huitag, Lago Calafquén",2021-06-04,12.0,-39.5169318,-72.2751638,True,-1,Los Ríos
-buwtea,Blue-winged Teal,Spatula discors,L512176,Pichilemu--Laguna Petrel (Humedal Urbano),,1.0,-34.3824693,-71.9981289,False,-1,Libertador General Bernardo O'Higgins
 whbmoc1,White-banded Mockingbird,Mimus triurus,L15260386,"9390000, Colina CL-Metropolitana de Santiago -33.18112, -70.71119",2021-06-05,1.0,-33.181116,-70.711189,True,-1,Región Metropolitana de Santiago
 buwcin1,Buff-winged Cinclodes,Cinclodes fuscus,L3151116,Taltal,2021-06-05,2.0,-25.4009902,-70.4815865,False,-1,Antofagasta
 jamfla1,James's Flamingo,Phoenicoparrus jamesi,L791057,Estero El Culebrón--Desembocadura,2021-06-05,1.0,-29.9617015,-71.3218206,False,-1,Coquimbo
@@ -1401,7 +1392,6 @@ slbpri1,Slender-billed Prion,Pachyptila belcheri,L15595133,"Auto selected -43.95
 andduc1,Andean Duck,Oxyura ferruginea,L5082246,San Pedro de Atacama--Estanque,2021-07-01,1.0,-22.9316904,-68.1950462,False,-1,Antofagasta
 blkski,Black Skimmer,Rynchops niger,L504553,SN Humedal Río Maipo--Desembocadura,2021-07-01,74.0,-33.6198013,-71.6275442,False,-1,Valparaíso
 whbmoc1,White-banded Mockingbird,Mimus triurus,L504553,SN Humedal Río Maipo--Desembocadura,2021-07-01,1.0,-33.6198013,-71.6275442,False,-1,Valparaíso
-gybsht1,Gray-bellied Shrike-Tyrant,Agriornis micropterus,L15659970,Coyhaique,,1.0,-45.583361,-72.03675,True,-1,Aisén del General Carlos Ibáñez del Campo
 slbpar1,Slender-billed Parakeet,Enicognathus leptorhynchus,L15608975,"Loncoche, Araucanía, CL (-39.37, -72.63)",2021-07-02,2000.0,-39.3701687,-72.6300164,True,-1,Araucanía
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L15751333,Quebrada Rinconada,2021-07-02,7.0,-24.9257949,-70.4955606,True,-1,Antofagasta
 pibgre,Pied-billed Grebe,Podilymbus podiceps,L15606095,"Parque Bicentenario, Vitacura CL-Metropolitana de Santiago -33.39508, -70.60044",2021-07-02,1.0,-33.395078,-70.600443,True,-1,Región Metropolitana de Santiago
@@ -1904,7 +1894,6 @@ flystd1,Flying Steamer-Duck,Tachyeres patachonicus,L16342416,Lago Todos Los Sant
 magfri,Magnificent Frigatebird,Fregata magnificens,L10309214,"Avenida Los Fertilizantes, Mejillones, Antofagasta, CL (-23,098, -70,485)",2021-08-23,1.0,-23.0977179,-70.4852738,True,-1,Antofagasta
 baisan,Baird's Sandpiper,Calidris bairdii,L15553251,Ruta Y-455 Km 16,2021-08-23,1.0,-52.4271549,-70.5667089,True,-1,Magallanes
 dowcra1,Dot-winged Crake,Porzana spiloptera,L629583,SN Península de Hualpén--Humedal Lenga,2021-08-23,3.0,-36.7694689,-73.1668103,False,-1,Bío-Bío
-mallar3,Mallard,Anas platyrhynchos,L16251428,Florencia 1441 El Retiro,,1.0,-33.039589,-71.4388085,True,1,Valparaíso
 bawswa1,Blue-and-white Swallow,Pygochelidon cyanoleuca,L4505651,Puente del Río Claro,2021-08-24,7.0,-35.4205139,-71.6829331,True,-1,Maule
 bucpar,Blue-crowned Parakeet,Thectocercus acuticaudatus,L3518562,Arica (ciudad),2021-08-24,1.0,-18.4807487,-70.3091526,False,1,Arica y Parinacota
 mitpar,Mitred Parakeet,Psittacara mitratus,L3518562,Arica (ciudad),2021-08-24,1.0,-18.4807487,-70.3091526,False,1,Arica y Parinacota
@@ -1976,7 +1965,6 @@ siltea1,Silver Teal,Spatula versicolor,L16257645,"Estero Zamorano, Desde Altura 
 saffin,Saffron Finch,Sicalis flaveola,L16256128,"610 Valdivieso, Llanquihue, Los Lagos, CL (-41,259, -73,007)",2021-08-31,15.0,-41.2586958,-73.0067992,True,-1,Los Lagos
 wepdov1,West Peruvian Dove,Zenaida meloda,L16256822,"Unnamed Road, Curicó, Maule, CL (-34,987, -71,282)",2021-08-31,2.0,-34.9874802,-71.2823746,True,-1,Maule
 sbgtyr1,Spot-billed Ground-Tyrant,Muscisaxicola maculirostris,L13875547,Humedales de La Capilla,2021-08-31,2.0,-34.4885075,-70.9402959,False,-1,Libertador General Bernardo O'Higgins
-jamfla1,James's Flamingo,Phoenicoparrus jamesi,L791057,Estero El Culebrón--Desembocadura,,1.0,-29.9617015,-71.3218206,False,-1,Coquimbo
 stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,2021-09-01,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 ycnher,Yellow-crowned Night-Heron,Nyctanassa violacea,L668852,Río Lluta--Desembocadura,2021-09-01,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 recpoc,Red-crested Pochard,Netta rufina,L16267659,"Valle el Cardonal, Puerto Montt, Los Lagos, CL (-41.443, -72.999)",2021-09-01,1.0,-41.4432443,-72.9985569,True,1,Los Lagos
@@ -2070,8 +2058,6 @@ blhduc1,Black-headed Duck,Heteronetta atricapilla,L16792130,Fuerte Reina Luisa,2
 perter2,Peruvian Tern,Sternula lorata,L16333633,Chacalluta — Pampa norte,2021-09-09,150.0,-18.341601,-70.35579,True,-1,Arica y Parinacota
 truter,Snowy-crowned Tern,Sterna trudeaui,L516506,Estero Cartagena--Desembocadura (Humedal Urbano),2021-09-09,1.0,-33.530377,-71.6023207,False,-1,Valparaíso
 flystd1,Flying Steamer-Duck,Tachyeres patachonicus,L4051381,Quillaipe,2021-09-09,2.0,-41.5307483,-72.7408648,False,-1,Los Lagos
-bkfibi2,Andean Ibis,Theristicus branickii,L5834554,Valle del Río Lluta--km 23,,11.0,-18.4490387,-70.0731397,False,-1,Arica y Parinacota
-cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L1048923,Molinos,,1.0,-18.3821935,-69.9457765,False,-1,Arica y Parinacota
 soater1,South American Tern,Sterna hirundinacea,L6517732,"Huitag, Lago Calafquén",2021-09-10,2.0,-39.5169318,-72.2751638,True,-1,Los Ríos
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L843121,Estero Marga Marga--Puente El Olivar,2021-09-10,0.0,-33.0505709,-71.5018773,False,-1,Valparaíso
 magoys1,Magellanic Oystercatcher,Haematopus leucopodus,L5050904,Baño Nuevo,2021-09-10,14.0,-45.2655841,-71.4904618,False,-1,Aisén del General Carlos Ibáñez del Campo
@@ -2079,7 +2065,6 @@ siltea1,Silver Teal,Spatula versicolor,L13875547,Humedales de La Capilla,2021-09
 mallar3,Mallard,Anas platyrhynchos,L16605791,Maitencillo--Playa Chungungo,2021-09-10,2.0,-32.653118,-71.4427855,False,1,Valparaíso
 sheowl,Short-eared Owl,Asio flammeus,L516541,"RN El Yali [usar localidades específicas, por favor]",2021-09-10,1.0,-33.7523188,-71.7111969,False,-1,Valparaíso
 perter2,Peruvian Tern,Sternula lorata,L21686664,Michilla,2021-09-10,1.0,-22.7055115,-70.282363,True,-1,Antofagasta
-andtin1,Andean Tinamou,Nothoprocta pentlandii,L1151436,Socoroma,,2.0,-18.2642703,-69.6022403,False,-1,Arica y Parinacota
 gyhsif1,Gray-hooded Sierra Finch,Phrygilus gayi,L15776646,"Olga Salas 7015, La Florida CL-Metropolitana de Santiago -33.52064, -70.54525",2021-09-11,2.0,-33.520635,-70.545253,True,-1,Región Metropolitana de Santiago
 stisan,Stilt Sandpiper,Calidris himantopus,L668852,Río Lluta--Desembocadura,2021-09-11,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 triher,Tricolored Heron,Egretta tricolor,L668852,Río Lluta--Desembocadura,2021-09-11,2.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
@@ -2093,7 +2078,6 @@ robpoc1,Rosy-billed Pochard,Netta peposaca,L570658,SN Laguna Batuco,2021-09-11,4
 perter2,Peruvian Tern,Sternula lorata,L16351579,Antofagasta--Pelágico,2021-09-11,7.0,-23.6863002,-70.8154632,False,-1,Antofagasta
 rispet1,Ringed Storm-Petrel,Hydrobates hornbyi,L16351579,Antofagasta--Pelágico,2021-09-11,1.0,-23.6863002,-70.8154632,False,-1,Antofagasta
 norgip1,Northern Giant-Petrel,Macronectes halli,L16351579,Antofagasta--Pelágico,2021-09-11,1.0,-23.6863002,-70.8154632,False,-1,Antofagasta
-andfli1,Andean Flicker,Colaptes rupicola,L603748,PN Lauca--Parinacota,,1.0,-18.2026148,-69.2682409,False,-1,Arica y Parinacota
 stisan,Stilt Sandpiper,Calidris himantopus,L8432981,Rio Lluta desembocadura,2021-09-12,1.0,-18.4169136,-70.3221641,True,-1,Arica y Parinacota
 sposan,Spotted Sandpiper,Actitis macularius,L8432981,Rio Lluta desembocadura,2021-09-12,1.0,-18.4169136,-70.3221641,True,-1,Arica y Parinacota
 triher,Tricolored Heron,Egretta tricolor,L8432981,Rio Lluta desembocadura,2021-09-12,1.0,-18.4169136,-70.3221641,True,-1,Arica y Parinacota
@@ -2909,7 +2893,6 @@ scrcow1,Screaming Cowbird,Molothrus rufoaxillaris,L9418233,Talca--Parque Costane
 perter2,Peruvian Tern,Sternula lorata,L21604968,Buchanan jones,2021-11-29,1.0,-23.1092063,-70.4685068,True,-1,Antofagasta
 cliswa,Cliff Swallow,Petrochelidon pyrrhonota,L606243,Humedal Tres Puentes,2021-11-29,1.0,-53.1162328,-70.8813,False,-1,Magallanes
 leasee1,Least Seedsnipe,Thinocorus rumicivorus,L2148311,La Parva--Vegas Noroeste,2021-11-29,3.0,-33.3276597,-70.297308,False,-1,Región Metropolitana de Santiago
-triher,Tricolored Heron,Egretta tricolor,L668852,Río Lluta--Desembocadura,,1.0,-18.4165392,-70.3224081,False,-1,Arica y Parinacota
 ameoys,American Oystercatcher,Haematopus palliatus,L3807332,PN Laguna San Rafael--Laguna San Rafael,2021-11-30,4.0,-46.6765912,-73.8535309,False,-1,Aisén del General Carlos Ibáñez del Campo
 souful1,Southern Fulmar,Fulmarus glacialoides,L3807332,PN Laguna San Rafael--Laguna San Rafael,2021-11-30,1.0,-46.6765912,-73.8535309,False,-1,Aisén del General Carlos Ibáñez del Campo
 soapas1,South American Painted-Snipe,Nycticryphes semicollaris,L17007626,"Autódromo, Penco, Bío Bío, CL (-36.754, -73.025)",2021-11-30,3.0,-36.7538062,-73.0253618,True,-1,Bío-Bío
